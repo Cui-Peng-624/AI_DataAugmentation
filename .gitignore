@@ -1,0 +1,5 @@
+.env
+__pycache__/
+# 扩充后的数据集/
+# 原始数据集/
+# invalid_outputs/

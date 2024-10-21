@@ -1,0 +1,7 @@
+﻿名称（字符型）,品牌（字符型）,型号（字符型）,售后服务（字符型）,操作系统（字符型）,生产厂商（字符型）,主处理器（字符型）,芯片（字符型）,操作方式（字符型）,仿生工具（字符型）,功能说明（字符型）,应用场景（字符型）,上市时间（日期型）,采集来源,来源链接,采集时间,备注【疑问汇总】,,,
+智能家居网关,海尔,HAG-1000,一年保修,自主研发,海尔,ARM Cortex-A53,海尔自研芯片,APP控制,声控助手,实现家庭设备的集中控制与管理,家庭自动化,2021-05-01,智能终端白皮书,https://www.cac.gov.cn/files/pdf/baipishu/ITwhitepaper.pdf,2024-10-10,,,,
+智能音箱,小米,XiaoAI Speaker,一年保修,MIUI,小米,ARM Cortex-A55,Amlogic S905Y2,语音控制,无人机助手,提供语音助手功能，控制智能家居设备,家庭娱乐,2020-06-01,半导体行业观察,https://www.semiinsights.com/s/package_test/35/41908.shtml,2024-10-10,,,,
+智能摄像头,TP-Link,Tapo C200,一年保修,Tapo OS,TP-Link,ARM Cortex-A7,HiSilicon Hi3516CV300,APP控制,安全监控工具,实时视频监控，支持夜视功能,家庭安防,2021-03-15,银河证券-电子行业研究报告,https://pdf.dfcfw.com/pdf/H3_AP202205231567306872_1.pdf,2024-10-10,,,,
+智能照明控制器,飞利浦,Hue Bridge ,两年保修 ,Philips Hue OS ,飞利浦 ,ARM Cortex-M4 ,NXP LPC1768 ,APP控制 ,环境调节工具 ,可调光、调色，支持场景设置 ,家庭照明 ,2019-11-20,智能终端白皮书,https://www.cac.gov.cn/files/pdf/baipishu/ITwhitepaper.pdf,2024-10-10,,,,
+智能恒温器,Nest,Nest Learning Thermostat,一年保修 ,Nest OS ,Google ,ARM Cortex-A8 ,Ambarella A5 ,APP控制 ,温控工具 ,自动学习用户习惯，智能调节室温 ,家庭温控,2019-01-10,半导体行业观察,https://www.semiinsights.com/s/package_test/35/41908.shtml,2024-10-10,,,,
+智能门锁,August,Smart Lock Pro ,一年保修,August OS,August,ARM Cortex-M0+,NXP PN532,APP控制,安全防护工具,提供远程开锁、访客管理功能,家庭安全 ,2020-08-01,中国电子学会、国家电网、麦肯锡等,https://pdf.dfcfw.com/pdf/H3_AP202205231567306872_1.pdf,2024-10-10,,,,

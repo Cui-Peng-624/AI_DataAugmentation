@@ -1,0 +1,8 @@
+﻿名称（字符型）,品牌（字符型）,宽度（字符型）,封装（字符型）,生产基地（字符型）,型号（字符型）,供应商（字符型）,集成协议（字符型）,应用产品（字符型）,上市日期（日期型）,功能说明（字符型）,采集来源,来源链接,采集时间,备注【疑问汇总】,,,,,
+Snapdragon 8,高通,10mm,BGA,美国加州,SM8250,高通,"PCIe, USB-C",智能手机,2020-12-01,高性能处理器，支持5G网络,半导体行业观察,https://www.semiinsights.com/s/package_test/35/41908.shtml,2024-10-10,,,,,,
+Exynos 2100,三星,12mm,FOWLP,韩国首尔,Exynos 2100,三星,"UFS, LPDDR5",智能手机,2021-01-01,集成AI处理单元，优化电池使用,电子工程专辑,https://www.eet-china.com/mp/a206085.html,2024-10-10,,,,,,
+A14 Bionic,苹果,11.8mm,WLP,美国加州,A14,苹果,NVMe,iPhone 12,2020-10-23,强大的图形处理能力，支持AR应用,技术发展引领产业变革,https://pdf.dfcfw.com/pdf/H3_AP202309221599688081_1.pdf,2024-10-10,,,,,,
+Kirin 9000,华为,10.5mm,BGA,中国深圳,Kirin 9000,华为,"PCIe, USB-C",智能手机,2020-10-30,支持5G和AI计算，性能强劲,半导体行业观察,https://www.semiinsights.com/s/package_test/35/41908.shtml,2024-10-10,,,,,,
+Dimensity 1200,联发科,9mm,CoWoS,台湾新竹,Dimensity 1200,联发科,"UFS, LPDDR4X",智能手机,2021-01-20,优化游戏体验，支持高刷新率显示,技术发展引领产业变革,https://pdf.dfcfw.com/pdf/H3_AP202309221599688081_1.pdf,2024-10-10,,,,,,
+HBM2,SK海力士,7mm,TSV,韩国水原,HBM2,SK海力士,HBM,图形处理器,2016-04-01,高带宽内存，适用于高性能计算,半导体行业观察,https://www.semiinsights.com/s/package_test/35/41908.shtml,2024-10-10,,,,,,
+A15 Bionic,苹果,10.2mm,WLP,美国加州,A15,苹果,NVMe,iPhone 13,2021-09-24,提升图形和计算性能，支持多任务处理,半导体行业观察,https://www.semiinsights.com/s/package_test/35/41908.shtml,2024-10-10,,,,,,

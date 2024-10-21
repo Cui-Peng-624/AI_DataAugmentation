@@ -1,0 +1,5 @@
+﻿基础结构（字符型）,上行带宽（字符型）,下行带宽（字符型）,抗氢老化稳定性（字符型）,采集来源,来源链接,采集时间,备注【疑问汇总】,,,,,,,,,,,,
+光纤接入,1 Gbps,10 Gbps,高,亚洲云,https://www.asiayun.com/helpcontent/230.html,2024-10-10,,,,,,,,,,,,,
+数字用户线（ADSL）,640 kbps,8 Mbps,中,腾讯云,https://cloud.tencent.com/developer/article/1678884,2024-10-10,,,,,,,,,,,,,
+光纤同轴电缆混合网 (HFC),10-100 Mbps,1 Gbps,高,华为,https://www.iyusou.com/,2024-10-10,,,,,,,,,,,,,
+LTE网络,50 Mbps,300 Mbps,中,CSDN,https://blog.csdn.net/weixin_42386609/article/details/129741990,2024-10-10,,,,,,,,,,,,,

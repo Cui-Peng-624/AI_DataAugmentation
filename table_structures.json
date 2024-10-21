@@ -1,0 +1,40 @@
+{
+  "8-现代时尚": {
+    "健身人数信息": {
+      "年月": "The date in format YYYY/MM/DD",
+      "地区": "The name of the region or province",
+      "健身房人数": "Number of people using gyms",
+      "单位": "Unit of measurement (e.g., 万人, 个, etc.)",
+      "健身工作室数量": "Number of fitness studios",
+      "健身俱乐部数量": "Number of fitness clubs",
+      "健身渗透率": "Fitness penetration rate (as a decimal)",
+      "经常参加体育锻炼的人数": "Number of people regularly participating in sports",
+      "人均体育场馆面积": "Average sports facility area per person",
+      "健身休闲产业规模": "Scale of the fitness and leisure industry",
+      "马拉松参加人数": "Number of marathon participants",
+      "采集来源": "Source of data collection",
+      "来源链接": "URL link to the data source",
+      "采集时间": "Time of data collection",
+      "备注【疑问汇总】": "Remarks and questions summary"
+    },
+    "服装企业渠道分析": {
+      "年月": "The date in format YYYY/MM/DD",
+      "企业": "Name of the company",
+      "直营收入占比": "Proportion of direct sales revenue",
+      "单位": "Unit of measurement (e.g., 万人, 个, etc.)",
+      "经销收入占比": "Proportion of distribution revenue",
+      "电商收入占比": "Proportion of e-commerce revenue",
+      "前五大客户占比": "Proportion of top five customers",
+      "最大客户占比": "Proportion of the largest customer",
+      "采集来源": "Source of data collection",
+      "来源链接": "URL link to the data source",
+      "采集时间": "Time of data collection",
+      "备注（疑问汇总）": "Remarks and questions summary"
+    },
+    "新表名": {
+      "新列名1": "新列1的描述",
+      "新列名2": "新列2的描述",
+      "新列名3": "新列3的描述"
+    }
+  }
+}

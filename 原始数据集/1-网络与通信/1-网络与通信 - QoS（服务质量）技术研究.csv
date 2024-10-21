@@ -1,0 +1,5 @@
+﻿可用性（字符型）,吞吐量（字符型）,时延（字符型）,时延变化（字符型）,丢失（数字型）,传输延迟允许时间（字符型）,最小传输画面失真度（字符型）,采集来源,来源链接,采集时间,备注【疑问汇总】,,,,,,,,,
+高,100 Mbps,50 ms,10 ms,1,200 ms,5%,CSDN,https://blog.csdn.net/kakingka/article/details/45698709,2024-10-10,,,,,,,,,,
+中,1 Gbps,20 ms,5 ms,2,100 ms,3%,电子科技大学学报,https://www.juestc.uestc.edu.cn/fileDZKJDX_ZKB/journal/article/dzkjdxxbzrkxb/2012/5/PDF/2012-5-781.pdf,2024-10-10,,,,,,,,,,
+高,10 Mbps,30 ms,15 ms,1,150 ms,2%,CSDN,https://blog.csdn.net/legend050709/article/details/115114964,2024-10-10,,,,,,,,,,
+中,500 Mbps,25 ms,8 ms,2,120 ms,4%,TechTarget,https://www.techtarget.com/searchunifiedcommunications/definition/QoS-Quality-of-Service,2024-10-10,,,,,,,,,,

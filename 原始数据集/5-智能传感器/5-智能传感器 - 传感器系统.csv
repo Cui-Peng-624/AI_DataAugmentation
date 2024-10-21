@@ -1,0 +1,8 @@
+﻿系统名称（字符型）,系统类型（字符型）,传感器（字符型）,微处理器（字符型）,存储器（字符型）,A/D转换接口（字符型）,发射及接受装置（字符型）,电源（字符型）,系统设计目标（字符型）,采集来源,来源链接,采集时间,备注【疑问汇总】,,,,,,,
+智能环境监测系统,物联网系统,温度传感器,ARM Cortex-M4,Flash存储器,SPI,无线模块,太阳能供电,实时监测环境变化,涂鸦智能,https://www.senther.com/News/193.html,2024-10-10,,,,,,,,
+智能家居系统,家庭自动化系统,光电传感器,ESP32,EEPROM,I2C,Zigbee模块,AC电源,提升居住舒适性,涂鸦智能,https://www.tuya.com/cn/industry-details/Kan45br5k5b7w,2024-10-10,,,,,,,,
+智能农业系统,农业监控系统,湿度传感器,Raspberry Pi,SD卡,UART,LoRa模块,电池供电,精准农业管理,郑州大学,http://fuwu.hnkjt.gov.cn/api/static/template/kjzcwj/%E5%85%88%E8%BF%9B%E5%88%B6%E9%80%A0%E5%A4%84/%E6%99%BA%E8%83%BD%E4%BC%A0%E6%84%9F%E5%99%A8%E4%BA%A7%E4%B8%9A%E7%8E%B0%E7%8A%B6.pdf,2024-10-10,,,,,,,,
+智能交通管理系统,交通监控系统,加速度传感器,PIC微控制器,RAM,ADC,GPS模块,DC电源,提高交通安全性,,https://cn.smartmore.com/article/post/2922.html,2024-10-10,,,,,,,,
+智能医疗监测系统,医疗设备系统,生物传感器,STM32,Flash存储器,I2C,蓝牙模块,USB供电,实时健康监测,物联网智库,https://www.iot101.com/mobile/news/785.html,2024-10-10,,,,,,,,
+智能工业控制系统,工业自动化系统,压力传感器,FPGA ,DDR3内存 ,SPI ,RS-232接口 ,AC电源 ,提高生产效率 ,中国东方设备网 ,http://www.cndfsb.cn/zlk/23824.htm,2024-10-10,,,,,,,,
+智能气象监测系统 ,气象监测系统 ,风速传感器 ,NXP LPC系列 ,Flash存储器 ,UART ,Wi-Fi模块 ,电池供电 ,提供气象预警 ,森瑟科技,https://www.senther.com/News/193.html,2024-10-10,,,,,,,,

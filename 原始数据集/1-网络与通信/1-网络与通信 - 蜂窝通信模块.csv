@@ -1,0 +1,5 @@
+﻿蜂窝通信网络名称（字符型）,通信技术（字符型）,传输速度（字符型）,通信距离（字符型）,成本（字符型）,应用领域（字符型）,采集来源,来源链接,采集时间,备注【疑问汇总】,,,,,,,,,,
+GSM,2G,9.6 kbps - 14.4 kbps,最长35公里,低,移动电话、智能设备,中国工业和信息化部,https://zh.wikipedia.org/zh-sg/GSM,2024-10-10,,,,,,,,,,,
+LTE,4G,300 Mbps,最长100公里,中,视频流、在线游戏,百度智能云,https://cloud.baidu.com/article/3144934,2024-10-10,,,,,,,,,,,
+NB-IoT,LPWA,250 kbps,最长10公里,低,智能水表、智慧城市,中国工业和信息化部,https://www.thepaper.cn/newsDetail_forward_18542222,2024-10-10,,,,,,,,,,,
+5G,5G,10 Gbps,最长1公里,高,自动驾驶、虚拟现实,Counterpoint Research,https://www.thepaper.cn/newsDetail_forward_18542222,2024-10-10,,,,,,,,,,,
