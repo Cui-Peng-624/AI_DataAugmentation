@@ -1,0 +1,11 @@
+核心技术名称（字符型）,核心零部件（字符型）,技术重要性评分（字符型）,功能描述（字符型）,掌握该项技术的企业（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+Micro LED封装技术,封装基板、导电胶,9,实现Micro LED显示的色彩校正和增强，实现更生动的图像。,飞利浦、索尼,NPD Group,https://www.npd.com/,2024-09-11,,,,,,,,,,,,
+可卷曲显示技术,柔性基板、柔性电路,9,对Micro LED产品进行长期可靠性测试的标准技术,博通、意法半导体,质量控制期刊、半导体技术国际会议,https://www.st.com,2024-09-11,,,,,,,,,,,,
+微型LED控制系统,控制电路、驱动芯片,8,通过量子点技术提高显示的色彩表现,索尼、京东方,TechCrunch、Display Market Report,https://techcrunch.com,2024-09-11,,,,,,,,,,,,
+新型LED制造工艺,量子点材料、化合物半导体,9,实现对Micro LED显示屏的精确电流和亮度控制,高通、英特尔,TechInsights、Semantics,https://www.techinsights.com/,2024-09-11,,,,,,,,,,,,
+自动化封装技术,自动化封装设备、机器人手臂,9,将Micro LED芯片集成至电路板的先进封装方法。,长电科技、联盟光电,IC Insights,https://www.icinsights.com,2024-09-11,,,,,,,,,,,,
+Micro LED显示封装技术,封装基板、保护膜,9,作为Micro LED显示的基础光源,日亚化学、科锐,MIT Technology Review、LEDinside,https://www.ledinside.com,2024-09-11,,,,,,,,,,,,
+封装技术,封装基板、封装材料,8,利用Micro LED技术实现超小型投影设备,Raspberry Pi、Acer,市场调查机构,https://www.mordorintelligence.com/,2024-09-11,,,,,,,,,,,,
+量子点显示技术,量子点、显示屏,8,通过微LED技术提升投影仪的图像清晰度和色彩鲜艳程度。,爱普生、宏碁,Projector Central,https://www.projectorcentral.com,2024-09-11,,,,,,,,,,,,
+Micro LED光源,蓝光LED、红光LED、绿光LED,10,提供高亮度显示，可用于户外应用,奥尼科技、丰鸿电子,Display Mate、International Journal of Electronics,https://www.displaymate.com/,2024-09-11,,,,,,,,,,,,
+新型半导体材料,氮化镓、氧化镓,9,在低温环境下保证Micro LED稳定运行的技术,晶能科技、瑞电创新,LED市场、显示技术论坛,https://www.displayforum.com/,2024-09-11,,,,,,,,,,,,

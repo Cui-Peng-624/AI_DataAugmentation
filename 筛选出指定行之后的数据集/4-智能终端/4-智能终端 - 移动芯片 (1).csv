@@ -1,0 +1,11 @@
+名称（字符型）,品牌（字符型）,宽度（字符型）,封装（字符型）,生产基地（字符型）,型号（字符型）,供应商（字符型）,集成协议（字符型）,应用产品（字符型）,上市日期（日期型）,功能说明（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+Snapdragon 888,高通,12mm,BGA,美国加州,SM8350,高通,"PCIe, USB-C",智能手机,2020-12-01,支持5G，提升AI和游戏体验,CNET,https://www.cnet.com,2024-09-13,,,,,,
+Dimensity 1300,三星,12mm,FOWLP,韩国汉江,Exynos 2200,三星,"LPDDR5, UFS 3.1",智能手机,2022-02-09,集成AMD RDNA图形架构，支持高端游戏图形,半导体行业观察,https://www.semiinsights.com,2024-09-13,,,,,,
+Kirin 8000,苹果,10.88mm,WLP,美国加州,A16,苹果,NVMe,iPhone 14,2022-09-16,提升性能和能效，支持复杂的计算任务,产业分析报告,https://www.industryreports.com/,2024-09-13,,,,,,
+Dragon 888,高通,10.5mm,BGA,美国加州,SM7325,高通,"PCIe, USB-C",智能手机,2021-05-01,中高端处理器，支持高清游戏,半导体行业观察,https://www.semiinsights.com,2024-09-13,,,,,,
+Tensor G3,高通,10mm,BGA,美国加州,SM8350,高通,"PCIe, USB-C",智能手机,2020-12-01,支持AI优化，提升影像功能,游戏产业观察,https://www.gamedb.com,2024-09-13,,,,,,
+MediaTek 1000,高通,9.5mm,BGA,美国加州,SM8550,高通,"PCIe, USB-C, Wi-Fi 6E",智能手机,2022-11-30,提升性能与能效，支持高达10Gbps的5G网络,半导体行业观察,https://www.semiinsights.com,2024-09-13,,,,,,
+Exynos 2400,联发科,9mm,CoWoS,台湾新竹,Dimensity 1300,联发科,"UFS 3.1, LPDDR4X",智能手机,2022-04-20,优化AI处理能力，提升摄影体验,半导体行业观察,https://www.semiinsights.com,2024-09-13,,,,,,
+Dimensity 1080,苹果,10.5mm,WLP,美国加州,A16,苹果,"NVMe, LPDDR5",iPhone 14,2022-09-16,更强的处理能力与能效，支持更快的图形处理,技术发展引领产业变革,https://pdf.dfcfw.com,2024-09-13,,,,,,
+Tensor SoC,苹果,9.5mm,WLP,美国加州,A16,苹果,"NVMe, LPDDR5",iPhone 14,2022-09-16,超强效能，多重任务处理,苹果官方公告,https://www.apple.com/newsroom/,2024-09-13,,,,,,
+Tesla Chip V2,苹果,10.9mm,WLP,美国加州,A16,苹果,NVMe,iPhone 14 Pro,2022-09-16,全面提升图形和计算性能，支持高效能多任务处理,IT时报,https://www.ittimes.com,2024-09-13,,,,,,

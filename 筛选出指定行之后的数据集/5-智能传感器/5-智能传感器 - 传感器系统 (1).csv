@@ -1,0 +1,11 @@
+系统名称（字符型）,系统类型（字符型）,传感器（字符型）,微处理器（字符型）,存储器（字符型）,A/D转换接口（字符型）,发射及接受装置（字符型）,电源（字符型）,系统设计目标（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+智能楼宇能源管理系统,楼宇自动化系统,电流传感器,BeagleBone Black,EEPROM,I2C,Wi-Fi模块,电池供电,降低能耗,智能家居协会,https://www.smarthomeassociation.org,2024-09-14,,,,,,,,
+智能废物管理系统,城市管理系统,超声波传感器,STM32,Flash存储器,I2C,LoRa模块,太阳能供电,优化废物收集效率,城市可持续发展研究所,https://www.sustainablecity.org/waste-management,2024-09-14,,,,,,,,
+智能城市环境监测系统,城市监控系统,空气质量传感器,TI MSP430,Flash存储器,I2C,Zigbee模块,电池供电,监测和改善城市空气质量,环保部,http://www.mee.gov.cn/,2024-09-14,,,,,,,,
+智能水质监测系统,水资源管理系统,pH传感器,ESP8266,Flash存储器,I2C,4G模块,太阳能供电,实时监测水质变化,水利部,http://www.mwr.gov.cn/,2024-09-14,,,,,,,,
+智能城市噪声监测系统,城市监控系统,声级传感器,ESP8266,EEPROM,UART,蓝牙模块,电池供电,监测城市噪声污染,城市环境保护局,http://www.cepa.gov.cn/,2024-09-14,,,,,,,,
+智能室内环境调节系统,环境控制系统,气体传感器,STM32F4系列,DDR3内存,SPI,MQTT模块,USB供电,提升室内空气质量,中央气象台,http://www.cma.gov.cn/,2024-09-14,,,,,,,,
+智能野生动物保护系统,生态监测系统,热成像传感器,Raspberry Pi 4,SD卡,I2C,4G模块,太阳能供电,监测野生动物活动,全球动物保护组织,https://www.worldanimalprotection.org.cn/,2024-09-14,,,,,,,,
+智能废物管理系统,城市管理系统,重量传感器,Raspberry Pi Zero,SD卡,ADC,NB-IoT模块,太阳能供电,优化城市废物管理,城市管理局,http://www.localgovernment.gov/,2024-09-14,,,,,,,,
+智能农作物监测系统,农业管理系统,土壤湿度传感器,BeagleBone Black,SD卡,ADC,GPRS模块,太阳能供电,提升农作物产量,中国农业大学,https://www.cau.edu.cn,2024-09-14,,,,,,,,
+智能水质监测系统,水质监测系统,pH传感器,Arduino Uno,EEPROM,I2C,无线模块,电池供电,实时监测水质变化,水资源保护协会,https://www.wrpa.org/,2024-09-14,,,,,,,,

@@ -1,0 +1,11 @@
+传感器名称（字符型）,传感器类型（字符型）,标识符合（字符型）,传感器地址（字符型）,鲁棒性（字符型）,功能码（字符型）,数据类型（字符型）,接口协议（字符型）,平台协议（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+肤温传感器,化学传感器,CO2-013,/dev/co2,中,15.0,数字,I2C,MQTT,室内空气质量监测,https://www.environmentalmonitoring.com/air-quality,2024-09-14,,,,,,,,
+脉搏传感器,化学传感器,CO2-013,/dev/co2,中,6.0,数字,I2C,MQTT,空气质量监测,https://www.aqmonitoring.com,2024-09-14,,,,,,,,
+糖尿病监测传感器,化学传感器,AS-011,/dev/alcohol,中,16.0,模拟,UART,HTTP,交通安全监控,https://www.traffic.gov,2024-09-14,,,,,,,,
+电磁场传感器,化学传感器,QS-012,/dev/waterquality,高,15.0,模拟,UART,HTTP,环境监测,https://www.eco.gov,2024-09-14,,,,,,,,
+光照强度传感器,化学传感器,QS-012,/dev/waterQuality,高,5.0,模拟,UART,HTTP,环境监测,https://www.environmentalprotectionagency.com/,2024-09-14,,,,,,,,
+毫米波传感器,化学传感器,WQ-014,/dev/waterquality,高,5.0,数字,UART,MQTT,水务公司,https://www.waterquality.org,2024-09-14,,,,,,,,
+加速度计传感器,化学传感器,QS-011,/dev/water_quality,中,6.0,模拟,UART,HTTP,水务管理,https://www.watermanagement.com,2024-09-14,,,,,,,,
+距离传感器,化学传感器,GH-017,/dev/ghg,高,1.0,数字,I2C,MQTT,环保监测,https://www.climateaction.com/,2024-09-14,,,,,,,,
+气象雷达传感器,化学传感器,OS-016,/dev/oxygen,高,16.0,数字,I2C,CoAP,工业气体监测,https://www.gasmonitoring.com/,2024-09-14,,,,,,,,
+震动传感器,生物传感器,FD-017,/dev/fatigue_detection,高,3.0,数字,BLE,HTTP,智能交通,https://www.smarttraffic.com,2024-09-14,,,,,,,,

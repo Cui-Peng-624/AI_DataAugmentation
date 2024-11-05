@@ -1,0 +1,11 @@
+基础结构（字符型）,上行带宽（字符型）,下行带宽（字符型）,抗氢老化稳定性（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+数字用户线（VDSL）,20 Mbps,100 Mbps,中,华为技术,https://www.huawei.com,2024-09-10,,,,,,,,,,,,,
+纳米光子通信,特定,特定,高,清华大学,https://www.tsinghua.edu.cn/,2024-09-10,,,,,,,,,,,,,
+数字用户线（VDSL）,80 Mbps,100 Mbps,中,网易云,https://cloud.163.com/,2024-09-10,,,,,,,,,,,,,
+MBR网络,40 Mbps,300 Mbps,中,中国联通,https://www.chinaunicom.com/,2024-09-10,,,,,,,,,,,,,
+数字用户线（VDSL）,35 Mbps,100 Mbps,中,搜狐科技,https://www.sohu.com/,2024-09-10,,,,,,,,,,,,,
+以太网接入,1 Gbps,1 Gbps,高,阿里云,https://www.aliyun.com,2024-09-10,,,,,,,,,,,,,
+卫星互联网,20 Mbps,500 Mbps,中,SpaceX Starlink,https://www.starlink.com/,2024-09-10,,,,,,,,,,,,,
+5G网络,150 Mbps,900 Mbps,高,中国移动,https://www.chinamobileltd.com/,2024-09-10,,,,,,,,,,,,,
+光纤射频接入 (RFoG),200 Mbps,1 Gbps,高,Fiber Optic Association,https://www.foa.org,2024-09-10,,,,,,,,,,,,,
+Wi-Fi 6,1 Gbps,9.6 Gbps,中,IT之家,https://www.ithome.com/,2024-09-10,,,,,,,,,,,,,

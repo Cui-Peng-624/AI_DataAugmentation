@@ -1,0 +1,11 @@
+技术名称（字符型）,技术类型（字符型）,技术投资额（数字型）,单位,DNA组成（字符型）,工具酶（字符型）,运载体（字符型）,遗传密码（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20
+精准医疗技术,个性化医疗技术,950,万元,双链DNA,基因组酶,病毒载体,ATTCGA,国家卫生健康委员会,http://www.nhc.gov.cn/,2024-09-30,,,,,,,,,,
+基因组编辑技术,基因编辑技术,700,万元,双链DNA,Cpf1,病毒载体,GATCGA,中国科学院,https://www.cas.cn/,2024-09-30,,,,,,,,,,
+基因克隆技术,分子生物学技术,150,万元,双链DNA,限制酶,质粒载体,GTCGTA,中国科学院,http://www.cas.cn,2024-09-30,,,,,,,,,,
+表观遗传修改技术,遗传调控技术,500,万元,双链DNA,DNA Methyltransferase,病毒载体,GATCGA,现代生物研究,https://www.ebi.ac.uk/,2024-09-30,,,,,,,,,,
+合成生物学技术,合成生物学,800,万元,双链DNA,Brilliant Ultra,非病毒载体,TTACCA,中国科学院合成生物学科研中心,http://www.sinabio.org/,2024-09-30,,,,,,,,,,
+腺病毒载体技术,基因治疗技术,400,万元,双链DNA,腺病毒酶,病毒载体,CGGTA,中国科学院,https://www.cas.cn/,,,,,,,,,,,
+CRISPR变体技术,基因编辑技术,500,万元,双链DNA,Cpf1,病毒载体,CCTAGG,科学院院士论坛,http://www.casad.ac.cn,,,,,,,,,,,
+基因数据共享平台,数据管理技术,200,万元,,,云计算平台,,基因组联合研究,https://www.genomecommons.org,,,,,,,,,,,
+体细胞基因治疗,基因治疗技术,850,万元,双链DNA,Cas9,病毒载体,GCATAG,细胞与基因研究中心,https://www.cellgene.com,,,,,,,,,,,
+合成生物学技术,合成基因技术,750,万元,合成DNA,,质粒载体,ATCGGC,合成生物学研究中心,http://www.synbio.org.cn/,,,,,,,,,,,

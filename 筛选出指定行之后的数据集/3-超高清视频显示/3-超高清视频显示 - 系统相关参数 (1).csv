@@ -1,0 +1,11 @@
+视频分辨率（字符型）,图像传感器数目（数值型）,单位,视频采集接口及速率（字符型）,本地缓存容量（字符型）,本地显示分辨率（字符型）,最大传输带宽（字符型）,远程显示分辨率（数值型）,单位.1,传输距离（数值型）,单位.2,系统总延时（数值型）,单位.3,系统调试接口（字符型）,设备供电电压（字符型）,功耗（字符型）,单位.4,采集来源,来源链接,采集时间,备注,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24
+1280x720,1,个,"USB, HDMI, >5Gbps",4GB,720P,5Gbps,480,P,15,米,12,毫秒,USB,AC5V,25,W,优酷,https://www.youku.com,2024-09-13,,,,,
+3840x2160,1,个,"HDMI, Ethernet, >25Gbps",8GB,4K,25Gbps,2160,P,100,米,32,毫秒,Ethernet、RS232,AC110V,90,W,数码产品评论,https://www.digitalproductreview.com,2024-09-13,,,,,
+1280x720,1,个,"HDMI, VGA, >8Gbps",4GB,720P,8Gbps,480,P,30,米,20,毫秒,RS232,AC5V,20,W,果壳网,https://www.guokr.com,2024-09-13,,,,,
+2560x1080,1,个,"HDMI, USB, >12Gbps",8GB,UltraWide,12Gbps,1080,P,45,米,15,毫秒,"VGA, HDMI",AC110V,60,W,AV资源网,https://www.avloud.com,2024-09-13,,,,,
+1920x1080,2,个,"HDMI, USB, >15Gbps",8GB,1080P,15Gbps,1080,P,70,米,18,毫秒,"USB, RS232",AC220V,80,W,行业动态,https://www.industrytoday.com,2024-09-13,,,,,
+3840x2160,2,个,"HDMI, Ethernet, >30Gbps",16GB,4K,30Gbps,2160,P,100,米,22,毫秒,"USB-C, RS232",AC220V,120,W,云计算展望,https://www.cloudcomputingforecast.com,2024-09-13,,,,,
+7680x4320,5,个,"SDI, HDMI, >80Gbps",64GB,8K,80Gbps,4320,P,300,米,35,毫秒,"USB 3.1, RS232",AC240V,400,W,电子科技,https://www.electronictech.com,2024-09-13,,,,,
+1280x720,1,个,"Type-C, HDMI",2GB,720P,5Gbps,480,P,25,米,16,毫秒,RS232,AC5V,15,W,极客公园,https://www.geekpark.net,2024-09-13,,,,,
+2560x1440,2,个,"HDMI, SDI, >15Gbps",8GB,1440P,15Gbps,1080,P,70,米,25,毫秒,"USB, Ethernet",AC220V,80,W,电子工程师,https://www.electronics-engineer.com,2024-09-13,,,,,
+5120x2880,3,个,"USB-C, HDMI, >30Gbps",16GB,5K,30Gbps,1440,P,75,米,25,毫秒,USB、RS232等,AC110V,120,W,IT之家,https://www.ithome.com,2024-09-13,,,,,

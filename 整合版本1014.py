@@ -25,7 +25,7 @@ def load_csv(file_path):
     # 找到不为空的列名
     non_empty_columns = df.columns[df.notna().any()].tolist()
     # 加入需要保留的列
-    required_columns = ["采集来源", "来源链接", "采集时间", "备注【疑问汇总】"]
+    required_columns = ["采集来源", "来源链接", "采集时间", "备注"]
     final_columns = [col for col in non_empty_columns if col not in required_columns] + required_columns
     # 根据有效列筛选数据，并保留“采集时间”和“备注【疑问汇总】”列
     df = df[final_columns]
@@ -174,7 +174,7 @@ def merge_data(original_df, extracted_generated_data_df, num_columns_to_augment)
     
     # 为生成的数据添加 "采集时间" 和 "备注【疑问汇总】" 两列，默认填充为 None
     extracted_generated_data_df["采集时间"] = None
-    extracted_generated_data_df["备注【疑问汇总】"] = None
+    extracted_generated_data_df["备注"] = None
 
     # print(extracted_generated_data_df.head())
     

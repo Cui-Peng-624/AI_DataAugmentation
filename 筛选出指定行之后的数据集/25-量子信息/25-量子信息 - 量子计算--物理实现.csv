@@ -1,0 +1,11 @@
+实现方案种类（字符型）,量子比特处理器多少位（数字型）,量子比特间的纠缠或连接程度（字符型）,单量子比特储存时间（数值型）,单位,保真度（数值型）,单位.1,采集来源,来源链接,采集时间,备注,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21
+硅量子比特,32,低（每个量子比特连接1个）,45.0,微秒,99.1,%,科技日报,https://www.stdaily.com,2024-10-22,,,,,,,,,,,,
+方案C,16,中（每个量子比特连接2-3个）,30.0,微秒,97.5,%,IEEE,https://www.ieee.org,2024-10-22,,,,,,,,,,,,
+中性原子量子比特,7200,高（每个量子比特连接多个）,180.0,微秒,96.2,%,Quantum Magazine,https://www.quantummagazine.com/,2024-10-22,,,,,,,,,,,,
+光量子比特,256,中（每个量子比特连接2-3个）,45.0,微秒,98.7,%,Nature Reviews Physics,https://www.nature.com/natrevphys,2024-10-22,,,,,,,,,,,,
+中性原子量子比特,900,高（每个量子比特连接多个）,220.0,微秒,97.5,%,Science Advances,https://www.science.org/journal/sciadv,2024-10-22,,,,,,,,,,,,
+超导量子比特,2048,高（每个量子比特连接多个）,150.0,微秒,99.9,%,哈佛大学量子研究所,https://quantum.harvard.edu/,2024-10-22,,,,,,,,,,,,
+冷原子量子比特,3500,高（每个量子比特连接多个）,320.0,微秒,99.5,%,Phys.org,https://phys.org/quantum-computing/,2024-10-22,,,,,,,,,,,,
+中性原子量子比特,8000,高（每个量子比特连接多个）,180.0,微秒,97.8,%,Harvard University Quantum Group,https://quantum.harvard.edu,2024-10-22,,,,,,,,,,,,
+中性原子量子比特,3200,高（每个量子比特连接多个）,300.0,微秒,97.8,%,Scientific American,https://www.scientificamerican.com,2024-10-22,,,,,,,,,,,,
+离子阱量子比特,50,中（每个量子比特连接2-3个）,75.0,微秒,98.5,%,中国科学院,https://www.cas.cn,2024-10-22,,,,,,,,,,,,

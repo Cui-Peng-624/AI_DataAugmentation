@@ -1,0 +1,11 @@
+名称（字符型）,品牌（字符型）,型号（字符型）,售后服务（字符型）,操作系统（字符型）,生产厂商（字符型）,主处理器（字符型）,芯片（字符型）,操作方式（字符型）,仿生工具（字符型）,功能说明（字符型）,应用场景（字符型）,上市时间（日期型）,采集来源,来源链接,采集时间,备注,Unnamed: 17,Unnamed: 18,Unnamed: 19
+智能花园浇水系统,Gardena,Smart Water Control,两年保修,Gardena OS,Gardena GmbH,ARM Cortex-M4,ES9038Q2M,APP控制,园艺管理工具,智能调节浇水量，实时气象监测,家庭园艺,2021-03-10,园艺科技杂志,https://www.gardeningtech.com,2024-09-13,,,,
+智能空调,格力,KFR-35GW/(35584)FNhAa-3,五年保修,Gree OS,格力电器,ARM Cortex-A9,NXP LS1043A,语音控制与APP,气候调节助手,智能温控，节能模式,家庭温控,2021-07-15,空调行业报告,https://www.gree.com,2024-09-13,,,,
+智能厨房烟灶,方太,JQG6T,三年保修,Smart Cooking OS,方太,ARM Cortex-A53,Espressif ESP32,触控与语音控制,厨房智能助手,自动火力调节、油烟监测,智能厨房,2022-01-15,厨房电器论坛,https://www.kitchenappliancesforum.com/,2024-09-13,,,,
+智能安全警报系统,Ring,Ring Alarm,一年保修,Ring App,Amazon,ARM Cortex-A7,Silicon Labs EFR32MG1,APP控制,安全事件监测器,主动监测家庭安全，及时预警,家庭安防,2021-12-15,家庭安全行业报告,https://www.homesecurity.com/,2024-09-13,,,,
+智能药箱,药事智能,Smart Pill Box,一年保修,自研OS,药事智能,ARM Cortex-M4,STM32F407,APP控制,健康管理工具,定时提醒患者服药，监测药物使用情况,家庭健康管理,2023-01-10,健康科技杂志,https://www.healthtechmag.com,2024-09-13,,,,
+智能洗碗机,博世,Bosch SHEM63W55N,五年保修,自有系统,博世家电,ARM Cortex-R4,Microchip PIC18F14K50,APP控制,卫生控制工具,自动选择洗涤模式，智能清洗,家庭厨房,2021-05-05,家电联盟,https://www.appliancealliance.org,2024-09-13,,,,
+智能运动相机,GoPro,Hero 10,一年保修,GoPro OS,GoPro,GP2,Ambarella H22,APP控制,摄影工具,4K高清视频录制，实时共享,家庭娱乐,2021-09-16,运动科技资讯,https://www.sportstechnews.com/,2024-09-13,,,,
+智能运动手环,Fitbit,Versa 3,一年保修,Fitbit OS,Fitbit,ARM Cortex-M4,Nordic nRF52832,触控和语音控制,健康监测工具,心率监测，运动跟踪,家庭健康与运动,2022-09-15,运动健康科技展,https://www.fitbit.com/,2024-09-13,,,,
+智能健身镜,Mirror,Smart Fitness Mirror,一年保修,Mirror OS,Mirror Inc.,Intel Core i5,Intel HD Graphics,语音控制、触摸控制,健身教练助手,提供实时指导，记录健身进度。,家庭健康,2023-03-12,健身科技研究,https://www.fitnessgear.com,2024-09-13,,,,
+智能垃圾桶,Simplehuman,Sensor Can,一年保修,Simplehuman OS,Simplehuman,ARM Cortex-M0+,ESP32,感应控制,智能清洁工具,自动开盖与闭合，便捷清理,家庭清洁,2023-05-10,清洁设备市场报告,https://www.cleaningequipment.com,2024-09-13,,,,

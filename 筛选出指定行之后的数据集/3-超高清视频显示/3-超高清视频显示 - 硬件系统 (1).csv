@@ -1,0 +1,11 @@
+系统名称（字符型）,系统类型（字符型）,印制电路板（字符型）,核心处理器（字符型）,最大视频宽度（字符型）,传输速率（字符型）,电源路数（数值型）,单位,元器件个数（数值型）,单位.1,信号网络个数（数值型）,单位.2,采集来源,来源链接,采集时间,备注,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22
+自动化处理系统,智能监控系统,多层PCB,Intel Core i9,>8K,>50Gbps,3,个,200,个,7,个,Forrester,https://www.forrester.com,2024-09-13,,,,,,,,
+多视角视频处理系统,视频合成系统,多层PCB,Google TPU,>6K,>45Gbps,3,个,250,个,9,个,Artificial Intelligence Blog,https://www.aiblog.com,2024-09-13,,,,,,,,
+云渲染系统,分布式渲染系统,双面PCB,AMD EPYC,>8K,>35Gbps,3,个,180,个,4,个,TechCrunch,https://techcrunch.com/,2024-09-13,,,,,,,,
+多屏幕展示系统,展示系统,多层PCB,Raspberry Pi 4,1080p,>5Gbps,1,个,75,个,3,个,DisplayDaily,https://www.displaydaily.com/,2024-09-13,,,,,,,,
+虚拟现实显示系统,增强现实硬件,单层PCB,Qualcomm Snapdragon系列,4K,>20Gbps,1,个,70,个,3,个,虚拟现实报道,https://www.vrreport.com/,2024-09-13,,,,,,,,
+实时流媒体处理系统,网络传输系统,多层PCB,Apple M1芯片,>8K,>45Gbps,1,个,90,个,4,个,TechCrunch,https://techcrunch.com,2024-09-13,,,,,,,,
+边缘AI视频分析系统,智能分析系统,多层PCB,Intel i9,>8K,>60Gbps,3,个,200,个,7,个,AI技术快讯,https://www.aitrends.com,2024-09-13,,,,,,,,
+智能家庭影院系统,集成系统,多层PCB,Qualcomm Snapdragon,8K,>30Gbps,3,个,95,个,4,个,家庭影音评测网,https://www.homecinema.com,2024-09-13,,,,,,,,
+电竞视频传输系统,网络传输系统,多层PCB,Ryzen 7系列,4K,>70Gbps,2,个,120,个,7,个,电竞论坛,https://www.gamingforum.com,2024-09-13,,,,,,,,
+高性能图像处理系统,图像处理系统,多层PCB,Apple M1,>8K,>45Gbps,2,个,140,个,5,个,AnandTech,https://www.anandtech.com,2024-09-13,,,,,,,,

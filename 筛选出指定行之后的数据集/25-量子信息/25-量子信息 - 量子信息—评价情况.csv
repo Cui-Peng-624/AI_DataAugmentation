@@ -1,0 +1,11 @@
+评价方式（字符型）,评价单位（字符型）,评价日期（字符型）,评价报告编号（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+量子测量精度,±值,2023-04-20,MEASUREPRECISION-2023-007,新兴科技周刊,http://www.emergingtechweekly.com,2024-10-21,,,,,,,,,,,,,
+量子位存储时间,毫秒,2023-07-22,STORETIME-2023-004,电子科学技术,https://www.electronicsci.tech,2024-10-21,,,,,,,,,,,,,
+量子设备集成度,%,2023-08-28,QDEV-2023-015,电子科技大学,http://www.uestc.edu.cn,2024-10-21,,,,,,,,,,,,,
+量子传感器精度,ppm,2023-09-30,QSP-2023-009,量子技术前沿,http://www.quantumtechfrontier.com,2024-10-21,,,,,,,,,,,,,
+量子网络覆盖范围,平方公里,2023-09-10,NETCOVER-2023-010,未来科技,https://www.futuretech.com,2024-10-21,,,,,,,,,,,,,
+量子模拟能力,个系统,2023-02-10,QUANTUMSIM-2023-015,科学美国人,https://www.scientificamerican.com,2024-10-21,,,,,,,,,,,,,
+量子安全协议数量,个,2023-04-18,SECURE-2023-017,网络安全观察,https://www.nsecwatch.com,2024-10-21,,,,,,,,,,,,,
+量子纠缠强度,比特,2022-11-12,ENT-2022-008,国家量子实验室,https://www.nqlab.org,2024-10-21,,,,,,,,,,,,,
+量子互联网节点数量,个,2023-03-22,QINETNODE-2023-017,全球量子互联网发展论坛,https://www.qinetforum.org,2024-10-21,,,,,,,,,,,,,
+量子计算处理能力,FLOPS,2023-05-25,QCP-2023-004,科技日报,http://www.stdaily.com/,2024-10-21,,,,,,,,,,,,,

@@ -1,0 +1,11 @@
+协议名称（字符型）,物理层（字符型）,数据链路层（字符型）,网络层（字符型）,传输层（字符型）,应用层（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+HART 10版本,C8PSK，100kbps,分时复用访问,自组织网络,全双工通信,设备固件在线升级功能,电子产品开发,https://www.eepw.com.cn,2024-09-14,,,,,,,,,,,
+HART Eco版本,低功耗无线，2000bps,自适应传输方式,不适用,半双工通信,强化环境监控能力,Environmental Science & Technology,https://pubs.acs.org/journal/esthag,2024-09-14,,,,,,,,,,,
+HART-Secure协议,电缆传输，300bps,增强的安全特性,不适用,半双工通信,数据加密和身份验证功能,Tech Development Lab,https://www.techdevelopmentlab.com/hart-secure,2024-09-14,,,,,,,,,,,
+HART 4版本,电缆传输，1200bps,常规主从通信,不适用,半双工通信,基础设备命令,本地传感器协会,https://www.localsensorassociation.com/hart-4,2024-09-14,,,,,,,,,,,
+HART 8版本,QPSK，300kbps,增强型令牌主从问答方式,不适用,半双工通信,支持过程控制命令,自动化网,https://www.automa.com/cn/news,2024-09-14,,,,,,,,,,,
+HART 7-智能版本,DSSS，500kbps,TDMA与多信道支持,自组织网络,半双工通信,支持边缘计算和数据分析,维基百科,https://zh.wikipedia.org,2024-09-14,,,,,,,,,,,
+HART协议V1.1,RS-232，9600bps,主从问答方式,不适用,半双工通信,用于简单的设备监测,网络电子,https://www.netelec.com,2024-09-14,,,,,,,,,,,
+HART 11版本,长距离FTM，1Mbps,改进的点对点通信,不适用,全双工通信,支持复杂的智能传感器数据交流,电子技术新闻网,https://www.electronicnews.com,2024-09-14,,,,,,,,,,,
+HART 9版本,BPSK，1Mbps,动态主从通信,支持LORA网络,全双工通信,实时数据上传与分析,高科技资讯网,https://www.technews.com/hart-9,2024-09-14,,,,,,,,,,,
+HART 10版本,LoRaWAN,多信道自适应,支持LoRa网络,Semi-duplex,适合远程监测,物联科技,https://www.iottech.com/hart10,2024-09-14,,,,,,,,,,,

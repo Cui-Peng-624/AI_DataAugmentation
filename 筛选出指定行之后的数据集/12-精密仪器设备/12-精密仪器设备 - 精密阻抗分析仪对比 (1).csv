@@ -1,0 +1,11 @@
+企业,测试频率,测试电平,DC偏置,DC电压源,最高准确度,采集来源,来源链接,采集时间,备注,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+Advantest Corporation,100 Hz - 1.2 GHz,5 mV - 22 V,±10 V,内置,±0.015%,美国工程师学会,aia.org,2024-09-28,,,,,,,,,,,
+Rohde & Schwarz,10 Hz - 2 GHz,10 mV - 15 V,±12 V,内置,±0.01%,德国联邦网络署 (BNetzA),bnetza.de,2024-09-28,,,,,,,,,,,
+Chroma,1 kHz - 2 MHz,500 mV - 10 V,±20 V,内置,±0.05%,中国电子产品标准化研究院 (CEPSR),cepsr.org.cn,2024-09-28,,,,,,,,,,,
+Chroma,10 Hz - 600 MHz,800 mV - 15 V,±22 V,内置,±0.012%,中国电子科技集团公司 (CETC),cetcc.com.cn,2024-09-28,,,,,,,,,,,
+Kyoritsu,10 Hz - 500 MHz,1 mV - 14 V,±18 V,内置,±0.04%,国际测量标准化组织 (IMSO),imso.org,2024-09-28,,,,,,,,,,,
+Flir Systems,100 Hz - 600 MHz,50 mV - 20 V,±5 V,外部,±0.025%,澳大利亚国家测量院 (NMI),nmi.gov.au,2024-09-28,,,,,,,,,,,
+Agilent Technologies,10 Hz - 3 GHz,0.1 mV - 15 V,±8 V,内置,±0.02%,英国国家物理实验室 (NPL),npl.co.uk,2024-09-28,,,,,,,,,,,
+Hewlett Packard (HP),100 Hz - 2 MHz,200 mV - 20 V,±8 V,外部,±0.02%,英国国家物理实验室 (NPL),npl.co.uk,2024-09-28,,,,,,,,,,,
+Rohde & Schwarz,1 kHz - 3 GHz,100 mV - 12 V,±30 V,内置,±0.015%,德国物理技术研究院 (PTB),ptb.de,2024-09-28,,,,,,,,,,,
+Chroma,1 kHz - 3 GHz,50 mV - 8 V,±10 V,内置,±0.02%,电气工程师协会 (IET),theiet.org,2024-09-28,,,,,,,,,,,

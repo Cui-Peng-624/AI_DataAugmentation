@@ -1,0 +1,11 @@
+年份（日期型）,基础设施名称（字符型）,基础组件（字符型）,账本（字符型）,共识（字符型）,智能合约（字符型）,接口（字符型）,应用（字符型）,操作运维（字符型）,系统管理（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+2020,Hyperledger Fabric,数据层、网络层,分布式账本,PBFT、Raft,支持智能合约,REST API,企业级应用,图形化管理工具,云端管理,阿里云,https://www.huaweicloud.com/special/bcs-frame.html,2024-09-26,,,,,,,
+2024,EOSIO,网络层、执行层,快速协议账本,Delegated Proof of Stake,C++智能合约,EOSJS,社交媒体应用,云原生工具集,中心化治理,EOS后援会,https://eos.io,2024-09-26,,,,,,,
+2024,Polkadot,中继链、平行链,跨链账本,NPoS,Ink!智能合约,JSON RPC,区块链互操作性,集成监控工具,多链环境管理,DappRadar,https://www.dappRadar.com,2024-09-26,,,,,,,
+2024,Fantom,虚拟机、网络层,高速账本,Lachesis,Fantom智能合约,Custom RPC,供应链应用,弹性资源调度,自动化链上治理,BeInCrypto,https://beincrypto.com/,2024-09-26,,,,,,,
+2024,Ripple,支付层、网络层,实时账本,Unique Node List,不支持智能合约,Ripple API,国际支付,快速交易确认,云端监控,Blockchain.com,https://www.blockchain.com,2024-09-26,,,,,,,
+2024,Tezos,自我修正层、智能合约层,自我维护账本,Liquid Proof-of-Stake,Michelson智能合约,RPC,去中心化金融,社区协作,链上治理,The Block,https://www.theblock.co,2024-09-26,,,,,,,
+2021,Zilliqa,网络层、智能合约层,高吞吐量账本,SHARDING,Scilla智能合约,REST API,广告生态,监控与维护工具,中心化管理,Blockonomi,https://www.blockonomi.com,2024-09-26,,,,,,,
+2024,Cardano,网络层、执行层,可扩展公有链账本,Ouroboros,Plutus智能合约,GraphQL API,金融服务,集成监控工具,多重签名管理,CoinDesk,https://www.coindesk.com,2024-09-26,,,,,,,
+2024,NEM,命名空间层、交易层,可编程账本,Proof-of-Importance,Smart Asset System,REST API,身份验证,界面友好的管理工具,访问控制管理,CryptoNews,https://cryptonews.com,2024-09-26,,,,,,,
+2024,Waves,共识层、交易层,自定义令牌账本,Leased Proof-of-Stake,Waves智能合约,WebSocket API,供应链透明化,高级日志审计,你的资产管理,Blockonomi,https://blockonomi.com,2024-09-26,,,,,,,

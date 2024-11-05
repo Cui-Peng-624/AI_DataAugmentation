@@ -1,0 +1,11 @@
+OFDM符号（字符型）,频谱效率（数值型）,单位,保护间隔（字符型）,最大时延扩展（数值型）,单位.1,同步序列（字符型）,信道估计序列（字符型）,子载波宽度（数值型）,Unnamed: 9,符号周期（数值型）,单位.2,小区半径（数值型）,单位.3,信道参数（字符型）,导频插入方式（字符型）,导频密度（字符型）,合适的域值（字符型）,导频地址（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 23,Unnamed: 24
+256,5.5,bps/Hz,1/16符号周期,220,μs,短序列,导频插入法,7.5,kHz,4.0,ms,450,m,Nakagami衰落,每隔3个符号,/24,适中,动态地址,国内科技论文库,https://www.cnki.net,2024-10-16,,,
+512,6.5,bps/Hz,1/8符号周期,80,μs,伪随机序列,导频插入法,5.0,kHz,3.0,ms,700,m,Rayleigh衰落,每隔5个符号,1/32,适中,地址固定,光通信技术杂志,https://www.sciencedirect.com/journal/optical-communications-and-networks,2024-10-16,,,
+64,4.5,bps/Hz,1/8符号周期,110,μs,伪随机序列,最近邻估计,10.0,kHz,12.0,ms,300,m,Rayleigh衰落,每隔三个符号,,较低,地址动态,MDPI,https://www.mdpi.com/,2024-10-16,,,
+128,4.5,bps/Hz,1/4符号周期,120,μs,自适应序列,最小方差估计,12.0,kHz,8.0,ms,450,m,Rician衰落,每隔4个符号,,较高,动态分配,ScienceDirect,https://www.sciencedirect.com/,2024-10-16,,,
+128,5.2,bps/Hz,1/16符号周期,250,μs,时钟同步信号,信道脉冲响应,7.5,kHz,8.33,ms,350,m,AWGN,每隔4个符号,,高,地址动态,ResearchGate,https://www.researchgate.net,2024-10-16,,,
+512,7.1,bps/Hz,1/2符号周期,180,μs,长序列,导频插入法,1.5,kHz,2.0,ms,800,m,Nakagami衰落,每隔2个符号,,高,地址动态,SpringerLink,https://link.springer.com,2024-10-16,,,
+384,6.8,bps/Hz,1/3符号周期,90,μs,时钟同步信号,贝叶斯估计,2.5,kHz,6.67,ms,500,m,Rician衰落,每个OFDM符号,1/32,适中,地址固定,MDPI Sensors,https://www.mdpi.com/journal/sensors,2024-10-16,,,
+256,6.2,bps/Hz,1/8符号周期,130,μs,时钟同步信号,信道时延估计,5.0,kHz,7.96,ms,550,m,Rayleigh衰落,每隔2个符号,,适中,动态地址,通信与信息系统学报,http://www.tcomjournal.com/,2024-10-16,,,
+640,6.8,bps/Hz,1/8符号周期,160,μs,长序列,自适应估计,2.5,kHz,5.12,ms,1100,m,Rician衰落,每个OFDM符号,,适中,地址动态,华为技术白皮书,https://www.huawei.com/cn/whitepaper/,2024-10-16,,,
+128,4.5,bps/Hz,1/16符号周期,300,μs,全局定位信号,自适应估计,3.125,kHz,8.0,ms,400,m,Rician衰落,每个OFDM符号,,高,地址动态,ResearchGate,https://www.researchgate.net,2024-10-16,,,

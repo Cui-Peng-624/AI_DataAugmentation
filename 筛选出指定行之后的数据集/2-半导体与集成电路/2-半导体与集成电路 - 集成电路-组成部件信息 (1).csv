@@ -1,0 +1,11 @@
+集成度（字符型）,类型（字符型）,特点（字符型）,设计方法（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+高集成度,自适应电路,能根据工作环境自动优化性能,实践自适应算法和机器学习技术,Forrester Research,https://go.forrester.com,2024-09-12,,,,,,,,,,,,,
+中等集成度,电源管理IC,自动调节输出电压，适用于各种电源需求,采用线性和开关模式相结合的设计,IC Insights,https://www.icinsights.com/,2024-09-12,,,,,,,,,,,,,
+低集成度,功率放大器,用于射频信号放大，提升信号强度,依赖新型材料如氮化镓提高效率与频率响应,射频技术协会,https://www.rftech.org,2024-09-12,,,,,,,,,,,,,
+低集成度,电源管理IC,用于提高电源效率和降低系统能耗,运用开关电源技术来优化电源分配,市场研究机构Gartner,https://www.gartner.com/,2024-09-12,,,,,,,,,,,,,
+中等集成度,电源管理IC,集成电压调节与电池充电功能,根据设备需求配合不同功率等级设计,市场研究公司Gartner,https://www.gartner.com/,2024-09-12,,,,,,,,,,,,,
+高集成度,AI加速器,专为深度学习运算设计的处理器,使用定制化架构优化AI任务处理,人工智能研究所,https://www.ai-research.org/,2024-09-12,,,,,,,,,,,,,
+高集成度,网络处理器,处理高性能路由和网络功能,基于最新的多核架构与并行处理,Next Generation Networks Research,https://www.ngn-research.com/,2024-09-12,,,,,,,,,,,,,
+高集成度,微处理器,专为5G基站设计的高效能处理器，支持多用户接入,通过多核架构提升并行处理能力,中国信息通信研究院,https://www.cai.gov.cn,2024-09-12,,,,,,,,,,,,,
+中等集成度,图像传感器,用于相机和手机摄影，支持高分辨率图像采集,结合CMOS技术与后端处理以提升图像质量,市场研究机构IC Insights,https://www.icinsights.com/,2024-09-12,,,,,,,,,,,,,
+高集成度,无线通信芯片,支持Wi-Fi和蓝牙，用于智能家居设备,结合多天线技术以提升信号稳定性,手机行业协会,https://www.mobileindustryassociation.com/,2024-09-12,,,,,,,,,,,,,

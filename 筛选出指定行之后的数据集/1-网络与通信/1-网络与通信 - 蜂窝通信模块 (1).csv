@@ -1,0 +1,11 @@
+蜂窝通信网络名称（字符型）,通信技术（字符型）,传输速度（字符型）,通信距离（字符型）,成本（字符型）,应用领域（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+5G mmWave,5G,4 Gbps,最长200米,高,城市公共WiFi、跨设备互联,Qualcomm,https://www.qualcomm.com/,2024-09-11,,,,,,,,,,,
+HSPA+,3.5G,42 Mbps,最长30公里,中,数据服务、社交媒体,中国移动,https://www.chinamobileltd.com,2024-09-11,,,,,,,,,,,
+Satellite 5G,5G,100 Mbps,不限,高,偏远地区通信、灾后恢复,全球卫星通信组织,https://www.gsma.com,2024-09-11,,,,,,,,,,,
+LTE-M,LPWA,1 Mbps,最长15公里,低,智能物流、生态监测,中国信息通信研究院,https://www.caict.ac.cn,2024-09-11,,,,,,,,,,,
+GPRS,2.5G,40-100 kbps,最长30公里,低,短信服务、基础数据服务,Frost & Sullivan,https://www.frost.com/,2024-09-11,,,,,,,,,,,
+CDMA2000,3G,300 kbps - 1 Mbps,最长30公里,中,视频通话、数据传输,中国移动,https://www.chinamobileltd.com,2024-09-11,,,,,,,,,,,
+VoLTE,4G,最大150 Mbps,最长100公里,中,语音通话、视频通话,ITU,https://www.itu.int/,2024-09-11,,,,,,,,,,,
+HSPA+,3.5G,42 Mbps,最长20公里,中,移动宽带、视频通话,华为技术有限公司,https://www.huawei.com,2024-09-11,,,,,,,,,,,
+LoRaWAN,LPWAN,0.3 kbps - 50 kbps,最长15公里,低,物联网、资产追踪,IoT Analytics,https://iot-analytics.com,2024-09-11,,,,,,,,,,,
+6G,6G,超过100 Gbps,预计最长2公里,高,全息通讯、边缘计算,IEEE Spectrum,https://spectrum.ieee.org/,2024-09-11,,,,,,,,,,,

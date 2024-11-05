@@ -1,0 +1,11 @@
+模块名称,输出电压,单位,初始精度,温漂系数,单位.1,采集来源,来源链接,采集时间,备注,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21
+REF32,1.8,V,±0.01%,8,ppm/°C,NXP半导体,nxp.com,2024-09-27,,,,,,,,,,,,,
+REF75,1.5,V,±0.012%,11,ppm/°C,NXP Semiconductors,nxp.com,2024-09-27,,,,,,,,,,,,,
+REF103,2.5,V,±0.02%,10,ppm/°C,Texas Instruments,ti.com,2024-09-27,,,,,,,,,,,,,
+AD584,4.1,V,±0.030%,11,ppm/°C,Renesas Electronics,renesas.com,2024-09-27,,,,,,,,,,,,,
+REF101,2.5,V,±0.025%,8,ppm/°C,Texas Instruments,ti.com,2024-09-27,,,,,,,,,,,,,
+REF615,1.2,V,±0.03%,5,ppm/°C,Analog Devices,analog.com,2024-09-27,,,,,,,,,,,,,
+REF221,3.6,V,±0.01%,5,ppm/°C,Rohm Semiconductor,rohm.com,2024-09-27,,,,,,,,,,,,,
+REF5420,1.8,V,±0.01%,4,ppm/°C,亚德诺半导体,analog.com,2024-09-27,,,,,,,,,,,,,
+TCS110,15.0,V,±0.012%,4,ppm/°C,Infineon Technologies,infineon.com,2024-09-27,,,,,,,,,,,,,
+REF7,15.0,V,±0.04%,30,ppm/°C,Texas Instruments,ti.com,2024-09-27,,,,,,,,,,,,,

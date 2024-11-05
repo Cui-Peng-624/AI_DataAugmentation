@@ -1,0 +1,11 @@
+可用性（字符型）,吞吐量（字符型）,时延（字符型）,时延变化（字符型）,丢失（数字型）,传输延迟允许时间（字符型）,最小传输画面失真度（字符型）,采集来源,来源链接,采集时间,备注,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+高,900 Mbps,12 ms,4 ms,1,80 ms,2%,中国信息通信技术协会,https://www.citca.org.cn,2024-09-10,,,,,,,,,,
+高,150 Mbps,45 ms,12 ms,0,250 ms,2%,IEEE Spectrum,https://spectrum.ieee.org,2024-09-10,,,,,,,,,,
+高,400 Mbps,22 ms,6 ms,0,75 ms,3%,光通讯技术杂志,http://www.opticalcomms.com,2024-09-10,,,,,,,,,,
+中,600 Mbps,15 ms,12 ms,3,130 ms,6%,传输与接收技术,https://www.ietf.org,2024-09-10,,,,,,,,,,
+高,2 Gbps,10 ms,3 ms,1,80 ms,2%,中国网络技术网,https://www.chinawlan.net/,2024-09-10,,,,,,,,,,
+高,8 Gbps,9 ms,2 ms,1,60 ms,1%,科学技术部,http://www.most.gov.cn/,2024-09-10,,,,,,,,,,
+高,1 Gbps,18 ms,9 ms,1,140 ms,1%,Telecommunications Policy Research Conference,http://www.tprcweb.com/,2024-09-10,,,,,,,,,,
+低,25 Mbps,90 ms,25 ms,7,300 ms,20%,网络时代,https://www.cyberspacemagazine.com/,2024-09-10,,,,,,,,,,
+低,50 Mbps,90 ms,25 ms,5,300 ms,10%,国家自然科学基金,https://www.nsfc.gov.cn/,2024-09-10,,,,,,,,,,
+高,1 Gbps,22 ms,9 ms,1,100 ms,3%,Medium,https://medium.com/,2024-09-10,,,,,,,,,,
