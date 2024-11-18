@@ -131,3 +131,2172 @@
     ]
 }
 --- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术": "动态场景重建技术",
+            "常用接口": "DisplayPort 2.0",
+            "服务对象": "电影制片公司",
+            "采集来源": "Cinema Technology",
+            "来源链接": "https://www.cinematechnology.com"
+        },
+        {
+            "关键技术": "深度学习视频增强",
+            "常用接口": "USB-C",
+            "服务对象": "动态广告行业",
+            "采集来源": "Advertising Week",
+            "来源链接": "https://www.advertisingweek.com"
+        },
+        {
+            "关键技术": "超高清视频压缩",
+            "常用接口": "HDMI 2.1",
+            "服务对象": "电视制造商",
+            "采集来源": "TechRadar",
+            "来源链接": "https://www.techradar.com"
+        },
+        {
+            "关键技术": "多视角渲染技术",
+            "常用接口": "8K HDMI",
+            "服务对象": "虚拟现实体验中心",
+            "采集来源": "VR Focus",
+            "来源链接": "https://www.vrfocus.com"
+        },
+        {
+            "关键技术": "区块链视频传输",
+            "常用接口": "5G网络",
+            "服务对象": "数字内容创作者",
+            "采集来源": "Blockchain in Media",
+            "来源链接": "https://www.blockchaininmedia.com"
+        },
+        {
+            "关键技术": "沉浸式影音体验技术",
+            "常用接口": "Wi-Fi 6",
+            "服务对象": "家庭影院系统",
+            "采集来源": "Home Theater Review",
+            "来源链接": "https://www.hometheaterreview.com"
+        },
+        {
+            "关键技术": "实时3D视频处理",
+            "常用接口": "Thunderbolt 4",
+            "服务对象": "游戏开发者",
+            "采集来源": "Gamer's Nexus",
+            "来源链接": "https://www.gamersnexus.net"
+        },
+        {
+            "关键技术": "创新色彩校正算法",
+            "常用接口": "Mini HDMI",
+            "服务对象": "彩色分级工作室",
+            "采集来源": "Post Magazine",
+            "来源链接": "https://www.postmagazine.com"
+        },
+        {
+            "关键技术": "视频同步技术",
+            "常用接口": "SDI",
+            "服务对象": "直播活动公司",
+            "采集来源": "Live Streaming Industry",
+            "来源链接": "https://www.livestreamingindustry.com"
+        },
+        {
+            "关键技术": "虚拟主播视频技术",
+            "常用接口": "USB 3.2",
+            "服务对象": "流媒体平台",
+            "采集来源": "Streamer Magazine",
+            "来源链接": "https://www.streamermagazine.com"
+        },
+        {
+            "关键技术": "AI视听自动化技术",
+            "常用接口": "Wi-Fi 6E",
+            "服务对象": "智能零售商",
+            "采集来源": "Retail Tech News",
+            "来源链接": "https://www.retailtechnews.com"
+        },
+        {
+            "关键技术": "可调节帧率技术",
+            "常用接口": "HDMI 2.1 VRR",
+            "服务对象": "电竞比赛组织者",
+            "采集来源": "Esports Insider",
+            "来源链接": "https://www.esportsinsider.com"
+        },
+        {
+            "关键技术": "双通道音频优化技术",
+            "常用接口": "Optical Audio",
+            "服务对象": "影院系统集成商",
+            "采集来源": "Sound & Vision",
+            "来源链接": "https://www.soundandvision.com"
+        },
+        {
+            "关键技术": "多媒体内存芯片技术",
+            "常用接口": "PCI Express 4.0",
+            "服务对象": "高端电脑用户",
+            "采集来源": "PC Gamer",
+            "来源链接": "https://www.pcgamer.com"
+        },
+        {
+            "关键技术": "直播互动技术",
+            "常用接口": "7G网络",
+            "服务对象": "互动娱乐公司",
+            "采集来源": "Entertainment Weekly",
+            "来源链接": "https://www.ew.com"
+        },
+        {
+            "关键技术": "超高清内容制作标准",
+            "常用接口": "直连接口",
+            "服务对象": "内容制作工作室",
+            "采集来源": "Content Creation Hub",
+            "来源链接": "https://www.contentcreationhub.com"
+        },
+        {
+            "关键技术": "传输抗干扰技术",
+            "常用接口": "4G LTE",
+            "服务对象": "户外摄像团队",
+            "采集来源": "Outdoor Photographer",
+            "来源链接": "https://www.outdoorphotographer.com"
+        },
+        {
+            "关键技术": "高效图像增强算法",
+            "常用接口": "Ethernet",
+            "服务对象": "监控和安全行业",
+            "采集来源": "Security Info Watch",
+            "来源链接": "https://www.securityinfowatch.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术": "8K视频编码标准",
+            "常用接口": "AV over IP",
+            "服务对象": "流媒体服务提供商",
+            "采集来源": "Video Tech Insights",
+            "来源链接": "https://www.videotechinsights.com"
+        },
+        {
+            "关键技术": "超高清图像处理芯片",
+            "常用接口": "HDMI 2.1",
+            "服务对象": "消费电子制造商",
+            "采集来源": "Consumer Electronics Review",
+            "来源链接": "https://www.cereview.com"
+        },
+        {
+            "关键技术": "动态帧率控制技术",
+            "常用接口": "DisplayPort 2.0",
+            "服务对象": "游戏开发商、电竞组织",
+            "采集来源": "Gaming Tech Journal",
+            "来源链接": "https://www.gamingtechjournal.com"
+        },
+        {
+            "关键技术": "视听体验提升平台",
+            "常用接口": "USB-C",
+            "服务对象": "博物馆、文化展览",
+            "采集来源": "Museum Technology Guide",
+            "来源链接": "https://www.museumtechguide.com"
+        },
+        {
+            "关键技术": "多视角视频直播",
+            "常用接口": "5G网络",
+            "服务对象": "大型活动服务商",
+            "采集来源": "Event Tech Blog",
+            "来源链接": "https://www.eventtechblog.com"
+        },
+        {
+            "关键技术": "视觉信息压缩技术",
+            "常用接口": "Ethernet AV",
+            "服务对象": "企业视频会议组织",
+            "采集来源": "Business Video Magazine",
+            "来源链接": "https://www.businessvideomagazine.com"
+        },
+        {
+            "关键技术": "全景声技术",
+            "常用接口": "Wi-Fi 6",
+            "服务对象": "影音娱乐行业",
+            "采集来源": "AudioVisual Trends",
+            "来源链接": "https://www.audiovisualtrends.com"
+        },
+        {
+            "关键技术": "高动态范围技术",
+            "常用接口": "HDMI 2.0b",
+            "服务对象": "影像制作公司",
+            "采集来源": "Film and Cinema Reports",
+            "来源链接": "https://www.filmcinemareports.com"
+        },
+        {
+            "关键技术": "云端视频制作平台",
+            "常用接口": "SATA 3",
+            "服务对象": "独立电影制片人",
+            "采集来源": "Filmmaker Online",
+            "来源链接": "https://www.filmmakeronline.com"
+        },
+        {
+            "关键技术": "多屏幕同步显示技术",
+            "常用接口": "DisplayPort Multi-Stream",
+            "服务对象": "广告传媒公司",
+            "采集来源": "Marketing Tech News",
+            "来源链接": "https://www.marketingtechnews.com"
+        },
+        {
+            "关键技术": "远程视频协作平台",
+            "常用接口": "WebRTC",
+            "服务对象": "在线教育机构",
+            "采集来源": "EduTech Review",
+            "来源链接": "https://www.edutechreview.com"
+        },
+        {
+            "关键技术": "实时音视频同步技术",
+            "常用接口": "IP网络",
+            "服务对象": "广播电视台",
+            "采集来源": "Broadcast Press",
+            "来源链接": "https://www.broadcastpress.com"
+        },
+        {
+            "关键技术": "AR/VR集成技术",
+            "常用接口": "HDMI 2.1、Thunderbolt 4",
+            "服务对象": "虚拟现实体验中心",
+            "采集来源": "VR Development Insights",
+            "来源链接": "https://www.vrdevelopmentinsights.com"
+        },
+        {
+            "关键技术": "超高分辨率远程监控",
+            "常用接口": "4G LTE",
+            "服务对象": "安全监控公司",
+            "采集来源": "Security Innovations",
+            "来源链接": "https://www.securityinnovations.com"
+        },
+        {
+            "关键技术": "AI视频分析",
+            "常用接口": "LAN网络",
+            "服务对象": "智能城市解决方案提供商",
+            "采集来源": "Smart Cities Journal",
+            "来源链接": "https://www.smartcitiesjournal.com"
+        },
+        {
+            "关键技术": "低延迟视频播放技术",
+            "常用接口": "Wi-Fi 6E",
+            "服务对象": "直播平台",
+            "采集来源": "Live Streaming News",
+            "来源链接": "https://www.livestreamingnews.com"
+        },
+        {
+            "关键技术": "360度视频配乐技术",
+            "常用接口": "USB 3.1",
+            "服务对象": "录音棚、后期制作",
+            "采集来源": "Audio Production Monthly",
+            "来源链接": "https://www.audioproductionmonthly.com"
+        },
+        {
+            "关键技术": "内容保护技术（DRM）",
+            "常用接口": "HTTPS加密",
+            "服务对象": "内容发行商",
+            "采集来源": "Content Protection Today",
+            "来源链接": "https://www.contentprotectiontoday.com"
+        },
+        {
+            "关键技术": "增强现实发布平台",
+            "常用接口": "QR码",
+            "服务对象": "品牌营销公司",
+            "采集来源": "Marketing Innovations",
+            "来源链接": "https://www.marketinginnovations.com"
+        },
+        {
+            "关键技术": "跨平台视频播放",
+            "常用接口": "Hyperlink Protocol (HTTP)",
+            "服务对象": "OTT内容提供商",
+            "采集来源": "OTT Platform News",
+            "来源链接": "https://www.ottplatformnews.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术（字符型）": "高动态范围成像技术",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "家庭影院用户",
+            "采集来源": "Home Theater Review",
+            "来源链接": "https://www.hometheaterreview.com"
+        },
+        {
+            "关键技术（字符型）": "8K内容创作工具",
+            "常用接口（字符型）": "USB-C",
+            "服务对象（字符型）": "独立视频制作者",
+            "采集来源": "Creative Bloq",
+            "来源链接": "https://www.creativebloq.com"
+        },
+        {
+            "关键技术（字符型）": "低延迟视频传输",
+            "常用接口（字符型）": "Ethernet",
+            "服务对象（字符型）": "电竞直播平台",
+            "采集来源": "Esports Insider",
+            "来源链接": "https://www.esportsinsider.com"
+        },
+        {
+            "关键技术（字符型）": "超高分辨率视频编码",
+            "常用接口（字符型）": "DisplayPort 2.0",
+            "服务对象（字符型）": "数字艺术家",
+            "采集来源": "Creative Applications",
+            "来源链接": "https://www.creativeapplications.net"
+        },
+        {
+            "关键技术（字符型）": "云端视频处理技术",
+            "常用接口（字符型）": "4G LTE",
+            "服务对象（字符型）": "视频分享平台",
+            "采集来源": "TechCrunch",
+            "来源链接": "https://techcrunch.com"
+        },
+        {
+            "关键技术（字符型）": "多通道音频技术",
+            "常用接口（字符型）": "光纤接口",
+            "服务对象（字符型）": "虚拟现实体验中心",
+            "采集来源": "VR Focus",
+            "来源链接": "https://www.vrfocus.com"
+        },
+        {
+            "关键技术（字符型）": "视频画面增强技术",
+            "常用接口（字符型）": "HDMI ARC",
+            "服务对象（字符型）": "娱乐行业",
+            "采集来源": "Variety",
+            "来源链接": "https://variety.com"
+        },
+        {
+            "关键技术（字符型）": "边缘计算视频分析",
+            "常用接口（字符型）": "5G网络",
+            "服务对象（字符型）": "智能城市项目",
+            "采集来源": "Smart Cities World",
+            "来源链接": "https://www.smartcitiesworld.net"
+        },
+        {
+            "关键技术（字符型）": "实时动态编码技术",
+            "常用接口（字符型）": "COMPOSITE",
+            "服务对象（字符型）": "媒体制作公司",
+            "采集来源": "Broadcasting & Cable",
+            "来源链接": "https://www.broadcastingcable.com"
+        },
+        {
+            "关键技术（字符型）": "虚拟现实适配技术",
+            "常用接口（字符型）": "USB 3.2",
+            "服务对象（字符型）": "游戏开发商",
+            "采集来源": "Game Developer",
+            "来源链接": "https://www.gamedeveloper.com"
+        },
+        {
+            "关键技术（字符型）": "AI智能内容生成",
+            "常用接口（字符型）": "Wi-Fi 6",
+            "服务对象（字符型）": "OTT内容平台",
+            "采集来源": "The Verge",
+            "来源链接": "https://www.theverge.com"
+        },
+        {
+            "关键技术（字符型）": "视频内容嵌入技术",
+            "常用接口（字符型）": "MHL",
+            "服务对象（字符型）": "电商平台",
+            "采集来源": "Retail Dive",
+            "来源链接": "https://www.retaildive.com"
+        },
+        {
+            "关键技术（字符型）": "360度视频技术",
+            "常用接口（字符型）": "Thunderbolt 3",
+            "服务对象（字符型）": "房产展示行业",
+            "采集来源": "Inman",
+            "来源链接": "https://www.inman.com"
+        },
+        {
+            "关键技术（字符型）": "实时视频翻译",
+            "常用接口（字符型）": "ANT+
+            ",
+            "服务对象（字符型）": "跨国企业",
+            "采集来源": "Forbes",
+            "来源链接": "https://www.forbes.com"
+        },
+        {
+            "关键技术（字符型）": "基于云的编码技术",
+            "常用接口（字符型）": "Wi-Fi 6E",
+            "服务对象（字符型）": "教育和培训行业",
+            "采集来源": "EdTech Magazine",
+            "来源链接": "https://edtechmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "深度学习图像处理",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "科研机构",
+            "采集来源": "IEEE Spectrum",
+            "来源链接": "https://spectrum.ieee.org"
+        },
+        {
+            "关键技术（字符型）": "用户行为分析技术",
+            "常用接口（字符型）": "RJ-45",
+            "服务对象（字符型）": "社交媒体平台",
+            "采集来源": "Social Media Today",
+            "来源链接": "https://www.socialmediatoday.com"
+        },
+        {
+            "关键技术（字符型）": "机器人影像识别技术",
+            "常用接口（字符型）": "CAN-Bus",
+            "服务对象（字符型）": "制造业",
+            "采集来源": "Manufacturing Tomorrow",
+            "来源链接": "https://www.manufacturingtomorrow.com"
+        },
+        {
+            "关键技术（字符型）": "实时视频监控技术",
+            "常用接口（字符型）": "HDMI 2.0",
+            "服务对象（字符型）": "安全监控行业",
+            "采集来源": "Security Magazine",
+            "来源链接": "https://www.securitymagazine.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术（字符型）": "超高清视频智能编码",
+            "常用接口（字符型）": "USB-C",
+            "服务对象（字符型）": "内容创作者、视频编辑",
+            "采集来源": "Tech Radar",
+            "来源链接": "https://www.techradar.com"
+        },
+        {
+            "关键技术（字符型）": "实时流媒体压缩",
+            "常用接口（字符型）": "Quad HDMI",
+            "服务对象（字符型）": "视频会议行业",
+            "采集来源": "Videoconference Weekly",
+            "来源链接": "https://www.videoconferenceweekly.com"
+        },
+        {
+            "关键技术（字符型）": "可扩展视频编码(HEVC)",
+            "常用接口（字符型）": "Ethernet",
+            "服务对象（字符型）": "大型活动直播公司",
+            "采集来源": "Streaming Media Magazine",
+            "来源链接": "https://www.streamingmedia.com"
+        },
+        {
+            "关键技术（字符型）": "高动态范围（HDR）技术",
+            "常用接口（字符型）": "DisplayPort 2.0",
+            "服务对象（字符型）": "电影制作公司",
+            "采集来源": "CinemaTech",
+            "来源链接": "https://www.cinematech.com"
+        },
+        {
+            "关键技术（字符型）": "360度视频流技术",
+            "常用接口（字符型）": "Wi-Fi 6",
+            "服务对象（字符型）": "虚拟旅游平台",
+            "采集来源": "Virtual Travel Journal",
+            "来源链接": "https://www.virtualtraveljournal.com"
+        },
+        {
+            "关键技术（字符型）": "超高清内容分发网络（CDN）",
+            "常用接口（字符型）": "SRT (Secure Reliable Transport)",
+            "服务对象（字符型）": "OTT视频服务",
+            "采集来源": "Video Streaming Solutions",
+            "来源链接": "https://www.videostreamingsolutions.com"
+        },
+        {
+            "关键技术（字符型）": "图像清晰度提升技术",
+            "常用接口（字符型）": "Thunderbolt 3",
+            "服务对象（字符型）": "游戏平台",
+            "采集来源": "Gaming Tech News",
+            "来源链接": "https://www.gamingtechnews.com"
+        },
+        {
+            "关键技术（字符型）": "智能视频分析",
+            "常用接口（字符型）": "IP68 if"，二进制",
+            "服务对象（字符型）": "安防监控公司",
+            "采集来源": "Security Today",
+            "来源链接": "https://www.securitytoday.com"
+        },
+        {
+            "关键技术（字符型）": "人工智能图像处理",
+            "常用接口（字符型）": "MHL (Mobile High-Definition Link)",
+            "服务对象（字符型）": "移动设备制造商",
+            "采集来源": "Mobile Tech Review",
+            "来源链接": "https://www.mobiletechreview.com"
+        },
+        {
+            "关键技术（字符型）": "多视角视频处理技术",
+            "常用接口（字符型）": "Gbit Ethernet",
+            "服务对象（字符型）": "专业体育直播公司",
+            "采集来源": "Sports Video Group",
+            "来源链接": "https://www.sportsvideogroup.com"
+        },
+        {
+            "关键技术（字符型）": "虚拟现实视频传输技术",
+            "常用接口（字符型）": "RFID连接",
+            "服务对象（字符型）": "VR体验中心",
+            "采集来源": "VR Insider",
+            "来源链接": "https://www.vrinsider.com"
+        },
+        {
+            "关键技术（字符型）": "光场显示技术",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "研究机构、高校",
+            "采集来源": "Journal of Optical Engineering",
+            "来源链接": "https://www.opticalengineeringjournal.com"
+        },
+        {
+            "关键技术（字符型）": "AI语音助手集成",
+            "常用接口（字符型）": "Bluetooth 5.0",
+            "服务对象（字符型）": "智能家居产品制造商",
+            "采集来源": "Home Automation Solutions",
+            "来源链接": "https://www.homeautomationsolutions.com"
+        },
+        {
+            "关键技术（字符型）": "色彩校正技术",
+            "常用接口（字符型）": "Fiber Optics",
+            "服务对象（字符型）": "电玩设备公司",
+            "采集来源": "Gamer's Digest",
+            "来源链接": "https://www.gamersdigest.com"
+        },
+        {
+            "关键技术（字符型）": "帧率提升技术",
+            "常用接口（字符型）": "USB 3.2",
+            "服务对象（字符型）": "电竞俱乐部",
+            "采集来源": "Esports Observer",
+            "来源链接": "https://www.esportsobserver.com"
+        },
+        {
+            "关键技术（字符型）": "超分辨率图像重建",
+            "常用接口（字符型）": "5G NR",
+            "服务对象（字符型）": "银行和金融机构",
+            "采集来源": "Finance Tech Today",
+            "来源链接": "https://www.financetechtoday.com"
+        },
+        {
+            "关键技术（字符型）": "云视频处理技术",
+            "常用接口（字符型）": "HTTPS",
+            "服务对象（字符型）": "教育机构、在线学习平台",
+            "采集来源": "EdTech Magazine",
+            "来源链接": "https://www.edtechmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "面部识别视频监控",
+            "常用接口（字符型）": "MQTT",
+            "服务对象（字符型）": "智能城市项目",
+            "采集来源": "Smart Cities World",
+            "来源链接": "https://www.smartcitiesworld.net"
+        },
+        {
+            "关键技术（字符型）": "动态背景模糊技术",
+            "常用接口（字符型）": "Wireless HDMI",
+            "服务对象（字符型）": "活动策划公司",
+            "采集来源": "Event Tech Briefing",
+            "来源链接": "https://www.eventtechbriefing.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术": "高效视频编解码技术",
+            "常用接口": "HEVC",
+            "服务对象": "视频流媒体平台",
+            "采集来源": "TechCrunch",
+            "来源链接": "https://techcrunch.com"
+        },
+        {
+            "关键技术": "HDR视频技术",
+            "常用接口": "HDMI 2.1",
+            "服务对象": "游戏开发公司",
+            "采集来源": "GameSpot",
+            "来源链接": "https://www.gamespot.com"
+        },
+        {
+            "关键技术": "超低延迟传输技术",
+            "常用接口": "SDI",
+            "服务对象": "直播活动策划公司",
+            "采集来源": "Broadcast Engineering",
+            "来源链接": "https://broadcastengineering.com"
+        },
+        {
+            "关键技术": "多视角视频合成技术",
+            "常用接口": "USB 3.2",
+            "服务对象": "传媒学院、培训机构",
+            "采集来源": "EdSurge",
+            "来源链接": "https://edsurge.com"
+        },
+        {
+            "关键技术": "次世代视频拼接技术",
+            "常用接口": "DisplayPort 1.4",
+            "服务对象": "大屏幕显示公司",
+            "采集来源": "Visuals",
+            "来源链接": "https://www.visuals.com"
+        },
+        {
+            "关键技术": "云端视觉计算服务",
+            "常用接口": "5G网络",
+            "服务对象": "VR游戏开发者",
+            "采集来源": "Wired",
+            "来源链接": "https://www.wired.com"
+        },
+        {
+            "关键技术": "AI视频内容生成技术",
+            "常用接口": "Wi-Fi 6",
+            "服务对象": "社交媒体公司",
+            "采集来源": "Forbes",
+            "来源链接": "https://www.forbes.com"
+        },
+        {
+            "关键技术": "动态范围图像处理",
+            "常用接口": "Thunderbolt 4",
+            "服务对象": "专业影视制作",
+            "采集来源": "Filmmaker Magazine",
+            "来源链接": "https://www.filmmakermagazine.com"
+        },
+        {
+            "关键技术": "实时光线追踪技术",
+            "常用接口": "HDMI 2.1",
+            "服务对象": "影视后期制作公司",
+            "采集来源": "VFX Voice",
+            "来源链接": "https://www.vfxvoice.com"
+        },
+        {
+            "关键技术": "多媒体互动技术",
+            "常用接口": "Bluetooth 5.0",
+            "服务对象": "互动展览策划公司",
+            "采集来源": "Event Marketer",
+            "来源链接": "https://www.eventmarketer.com"
+        },
+        {
+            "关键技术": "6DoF视频捕捉技术",
+            "常用接口": "Ethernet",
+            "服务对象": "运动分析公司",
+            "采集来源": "SportTechie",
+            "来源链接": "https://www.sporttechie.com"
+        },
+        {
+            "关键技术": "超级解析度技术",
+            "常用接口": "HDMI ARC",
+            "服务对象": "家庭影院系统制造商",
+            "采集来源": "CNET",
+            "来源链接": "https://www.cnet.com"
+        },
+        {
+            "关键技术": "网络视频分享技术",
+            "常用接口": "WebRTC",
+            "服务对象": "在线教育平台",
+            "采集来源": "EdTech Magazine",
+            "来源链接": "https://edtechmagazine.com"
+        },
+        {
+            "关键技术": "超高分辨率图像传输",
+            "常用接口": "USB-C",
+            "服务对象": "智能穿戴设备厂家",
+            "采集来源": "The Verge",
+            "来源链接": "https://www.theverge.com"
+        },
+        {
+            "关键技术": "虚拟广告技术",
+            "常用接口": "5G网络",
+            "服务对象": "广告技术公司",
+            "采集来源": "Adweek",
+            "来源链接": "https://www.adweek.com"
+        },
+        {
+            "关键技术": "异构计算渲染技术",
+            "常用接口": "PCIe 4.0",
+            "服务对象": "图形设计工作室",
+            "采集来源": "Animation Magazine",
+            "来源链接": "https://www.animationmagazine.net"
+        },
+        {
+            "关键技术": "实时特效渲染",
+            "常用接口": "Ethernet",
+            "服务对象": "现场活动制作公司",
+            "采集来源": "Event Marketer",
+            "来源链接": "https://www.eventmarketer.com"
+        },
+        {
+            "关键技术": "视频流量分析技术",
+            "常用接口": "Wi-Fi 6E",
+            "服务对象": "数据分析公司",
+            "采集来源": "Gartner",
+            "来源链接": "https://www.gartner.com"
+        },
+        {
+            "关键技术": "云端直播技术",
+            "常用接口": "RTMP",
+            "服务对象": "企业直播解决方案提供商",
+            "采集来源": "Streaming Media",
+            "来源链接": "https://www.streamingmedia.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术（字符型）": "可变帧率技术",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "游戏开发公司",
+            "采集来源": "Game Developer",
+            "来源链接": "https://www.gamedeveloper.com"
+        },
+        {
+            "关键技术（字符型）": "云视频后制技术",
+            "常用接口（字符型）": "IP网络",
+            "服务对象（字符型）": "媒体制作公司",
+            "采集来源": "Post Magazine",
+            "来源链接": "https://www.postmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "自适应流媒体技术",
+            "常用接口（字符型）": "Wi-Fi 6",
+            "服务对象（字符型）": "视频点播服务供应用",
+            "采集来源": "Streaming Media",
+            "来源链接": "https://www.streamingmedia.com"
+        },
+        {
+            "关键技术（字符型）": "HDR动态范围扩展",
+            "常用接口（字符型）": "DisplayPort 1.4",
+            "服务对象（字符型）": "影片制作行业",
+            "采集来源": "Filmmaker Magazine",
+            "来源链接": "https://www.filmmakermagazine.com"
+        },
+        {
+            "关键技术（字符型）": "多视角视频技术",
+            "常用接口（字符型）": "USB-C",
+            "服务对象（字符型）": "虚拟现实平台",
+            "采集来源": "VR Focus",
+            "来源链接": "https://www.vrfocus.com"
+        },
+        {
+            "关键技术（字符型）": "视频内容分析技术",
+            "常用接口（字符型）": "5G网络",
+            "服务对象：": "智能安防系统",
+            "采集来源": "Security Info Watch",
+            "来源链接": "https://www.securityinfowatch.com"
+        },
+        {
+            "关键技术（字符型）": "360度视频捕捉",
+            "常用接口（字符型）": "HDMI 2.1、USB 3.2",
+            "服务对象（字符型）": "旅游与传媒行业",
+            "采集来源": "Travel Weekly",
+            "来源链接": "https://www.travelweekly.com"
+        },
+        {
+            "关键技术（字符型）": "深度学习视频压缩技术",
+            "常用接口（字符型）": "Ethernet",
+            "服务对象（字符型）": "传媒行业",
+            "采集来源": "TechCrunch",
+            "来源链接": "https://www.techcrunch.com"
+        },
+        {
+            "关键技术（字符型）": "超分辨率重建",
+            "常用接口（字符型）": "Wi-Fi 6E",
+            "服务对象（字符型）": "图像处理和监控领域",
+            "采集来源": "Journal of Imaging Science",
+            "来源链接": "https://www.imaging.science"
+        },
+        {
+            "关键技术（字符型）": "多视图合成技术",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "影视制作公司",
+            "采集来源": "Variety",
+            "来源链接": "https://www.variety.com"
+        },
+        {
+            "关键技术（字符型）": "增强现实内容呈现技术",
+            "常用接口（字符型）": "USB 3.1",
+            "服务对象（字符型）": "教育与科研机构",
+            "采集来源": "EdTech Magazine",
+            "来源链接": "https://www.edtechmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "超高清云转码技术",
+            "常用接口（字符型）": "10G网络",
+            "服务对象（字符型）": "OTT平台",
+            "采集来源": "Video Genome",
+            "来源链接": "https://www.videogenome.com"
+        },
+        {
+            "关键技术（字符型）": "实时视频分析和监测",
+            "常用接口（字符型）": "RFID",
+            "服务对象（字符型）": "公共安全部门",
+            "采集来源": "Security Magazine",
+            "来源链接": "https://www.securitymagazine.com"
+        },
+        {
+            "关键技术（字符型）": "色彩精确重建技术",
+            "常用接口（字符型）": "DisplayPort 2.0",
+            "服务对象（字符型）": "高端显示设备制造商",
+            "采集来源": "TechRadar",
+            "来源链接": "https://www.techradar.com"
+        },
+        {
+            "关键技术（字符型）": "机器学习图像增强",
+            "常用接口（字符型）": "Wi-Fi Direct",
+            "服务对象（字符型）": "医疗影像分析公司",
+            "采集来源": "Healthcare IT News",
+            "来源链接": "https://www.healthcareitnews.com"
+        },
+        {
+            "关键技术（字符型）": "区块链视频版权管理",
+            "常用接口（字符型）": "Ethernet",
+            "服务对象（字符型）": "内容创作者",
+            "采集来源": "Blockchain for Video",
+            "来源链接": "https://www.blockchainforvideo.com"
+        },
+        {
+            "关键技术（字符型）": "全景360度直播技术",
+            "常用接口（字符型）": "5G网络",
+            "服务对象（字符型）": "直播平台",
+            "采集来源": "Live Streaming",
+            "来源链接": "https://www.livestreaming.com"
+        },
+        {
+            "关键技术（字符型）": "光场显示技术",
+            "常用接口（字符型）": "USB-C",
+            "服务对象（字符型）": "数字艺术与设计公司",
+            "采集来源": "Creative Bloq",
+            "来源链接": "https://www.creativebloq.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术（字符型）": "高动态范围（HDR）视频技术",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "家庭影院爱好者",
+            "采集来源": "TechRadar",
+            "来源链接": "https://www.techradar.com"
+        },
+        {
+            "关键技术（字符型）": "超低延迟视频编码",
+            "常用接口（字符型）": "Ethernet",
+            "服务对象（字符型）": "电子竞技赛事",
+            "采集来源": "Esports Insider",
+            "来源链接": "https://www.esportsinsider.com"
+        },
+        {
+            "关键技术（字符型）": "超高清直播技术",
+            "常用接口（字符型）": "SRT协议",
+            "服务对象（字符型）": "娱乐公司、直播平台",
+            "采集来源": "Live Streaming Tech",
+            "来源链接": "https://www.livestreamingtech.com"
+        },
+        {
+            "关键技术（字符型）": "人工智能视频分析",
+            "常用接口（字符型）": "REST API",
+            "服务对象（字符型）": "安全监控行业、企业管理",
+            "采集来源": "Security World",
+            "来源链接": "https://www.securityworld.com"
+        },
+        {
+            "关键技术（字符型）": "超高清虚拟现实技术",
+            "常用接口（字符型）": "USB-C",
+            "服务对象（字符型）": "虚拟现实体验场所",
+            "采集来源": "VR Focus",
+            "来源链接": "https://www.vrfocus.com"
+        },
+        {
+            "关键技术（字符型）": "视频内容个性化推荐算法",
+            "常用接口（字符型）": "API for streaming",
+            "服务对象（字符型）": "流媒体服务提供商",
+            "采集来源": "Streaming Media Magazine",
+            "来源链接": "https://www.streamingmedia.com"
+        },
+        {
+            "关键技术（字符型）": "图像增强技术",
+            "常用接口（字符型）": "HDMI 2.0",
+            "服务对象（字符型）": "电影制作公司",
+            "采集来源": "Film and Media Studies Journal",
+            "来源链接": "https://www.filmandmediasudies.com"
+        },
+        {
+            "关键技术（字符型）": "8K内容生成技术",
+            "常用接口（字符型）": "DisplayPort 1.4",
+            "服务对象（字符型）": "游戏开发公司",
+            "采集来源": "Game Developer Magazine",
+            "来源链接": "https://www.gamedevelopermagazine.com"
+        },
+        {
+            "关键技术（字符型）": "多视角视频直播技术",
+            "常用接口（字符型）": "Jumbo Frame Ethernet",
+            "服务对象（字符型）": "体育赛事直播",
+            "采集来源": "Sports Video Group",
+            "来源链接": "https://www.sportsvideogroup.com"
+        },
+        {
+            "关键技术（字符型）": "边缘计算视频处理",
+            "常用接口（字符型）": "MQTT",
+            "服务对象（字符型）": "智能城市解决方案",
+            "采集来源": "Edge Computing Magazine",
+            "来源链接": "https://www.edgecomputingmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "360度全景视频技术",
+            "常用接口（字符型）": "USB 3.0",
+            "服务对象（字符型）": "旅游与探索行业",
+            "采集来源": "Travel and Leisure",
+            "来源链接": "https://www.travelandleisure.com"
+        },
+        {
+            "关键技术（字符型）": "视频防抖技术",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "个人视频创作者",
+            "采集来源": "YouTube Creators",
+            "来源链接": "https://www.youtube.com/creators"
+        },
+        {
+            "关键技术（字符型）": "8K视频实时编辑技术",
+            "常用接口（字符型）": "Thunderbolt 3",
+            "服务对象（字符型）": "后期制作工作室",
+            "采集来源": "Post Production Magazine",
+            "来源链接": "https://www.postproductionmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "音频视觉化技术",
+            "常用接口（字符型）": "Bluetooth 5.0",
+            "服务对象（字符型）": "音乐与娱乐产业",
+            "采集来源": "Mixmag",
+            "来源链接": "https://www.mixmag.net"
+        },
+        {
+            "关键技术（字符型）": "AI驱动的内容校正技术",
+            "常用接口（字符型）": "Wi-Fi 6",
+            "服务对象（字符型）": "在线教育平台",
+            "采集来源": "EdTech Magazine",
+            "来源链接": "https://www.edtechmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "高效视频编码技术（HEVC）",
+            "常用接口（字符型）": "Ethernet",
+            "服务对象（字符型）": "网络视频监控")
+            "采集来源": "Network Video Tech",
+            "来源链接": "https://www.networkvideotech.com"
+        },
+        {
+            "关键技术（字符型）": "多带宽流传输技术",
+            "常用接口（字符型）": "4G LTE",
+            "服务对象（字符型）": "移动视频服务供应商",
+            "采集来源": "Telecoms.com",
+            "来源链接": "https://www.telecoms.com"
+        },
+        {
+            "关键技术（字符型）": "视频流质量监测技术",
+            "常用接口（字符型）": "LACP",
+            "服务对象（字符型）": "视频运营商",
+            "采集来源": "TechCrunch",
+            "来源链接": "https://www.techcrunch.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术（字符型）": "动态流媒体传输",
+            "常用接口（字符型）": "SRT",
+            "服务对象（字符型）": "体育赛事直播",
+            "采集来源": "Sports Tech Journal",
+            "来源链接": "https://sportstechjournal.com"
+        },
+        {
+            "关键技术（字符型）": "超高动态范围成像",
+            "常用接口（字符型）": "DisplayPort 2.0",
+            "服务对象（字符型）": "影院、多媒体制作",
+            "采集来源": "Cinema Technology Magazine",
+            "来源链接": "https://cinematechnology.com"
+        },
+        {
+            "关键技术（字符型）": "视频分辨率提升算法",
+            "常用接口（字符型）": "QAM",
+            "服务对象（字符型）": "宽带服务提供商",
+            "采集来源": "Broadband Technology Report",
+            "来源链接": "https://broadbandtechreport.com"
+        },
+        {
+            "关键技术（字符型）": "光学传输技术",
+            "常用接口（字符型）": "Fiber Optic",
+            "服务对象（字符型）": "网络建设公司",
+            "采集来源": "Optical Networking News",
+            "来源链接": "https://opticalnetworkingnews.com"
+        },
+        {
+            "关键技术（字符型）": "视频质量评估技术",
+            "常用接口（字符型）": "RTP",
+            "服务对象（字符型）": "内容分发网络",
+            "采集来源": "CDN Weekly",
+            "来源链接": "https://cdnweekly.com"
+        },
+        {
+            "关键技术（字符型）": "边缘计算推流",
+            "常用接口（字符型）": "WebRTC",
+            "服务对象（字符型）": "社交媒体平台",
+            "采集来源": "Digital Innovation Journal",
+            "来源链接": "https://digitalinnovationjournal.com"
+        },
+        {
+            "关键技术（字符型）": "面向未来的存储解决方案",
+            "常用接口（字符型）": "NVMe over Fabrics",
+            "服务对象（字符型）": "数据中心",
+            "采集来源": "Data Storage Magazine",
+            "来源链接": "https://datastoragemagazine.com"
+        },
+        {
+            "关键技术（字符型）": "视频内容智能分发",
+            "常用接口（字符型）": "API接口",
+            "服务对象（字符型）": "在线视频平台",
+            "采集来源": "Streaming Media Magazine",
+            "来源链接": "https://streamingmedia.com"
+        },
+        {
+            "关键技术（字符型）": "智能内容分析",
+            "常用接口（字符型）": "RESTful API",
+            "服务对象（字符型）": "广告公司",
+            "采集来源": "Advertising Age",
+            "来源链接": "https://adage.com"
+        },
+        {
+            "关键技术（字符型）": "多屏幕同步显示技术",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "大型活动策划公司",
+            "采集来源": "Event Tech Brief",
+            "来源链接": "https://eventtechbrief.com"
+        },
+        {
+            "关键技术（字符型）": "基于AI的视频压缩",
+            "常用接口（字符型）": "AV1",
+            "服务对象（字符型）": "视频制作工具公司",
+            "采集来源": "AV1 Insight",
+            "来源链接": "https://av1insight.com"
+        },
+        {
+            "关键技术（字符型）": "增强现实融入视频技术",
+            "常用接口（字符型）": "USB-C",
+            "服务对象（字符型）": "虚拟现实游戏开发公司",
+            "采集来源": "VR World",
+            "来源链接": "https://vrworld.com"
+        },
+        {
+            "关键技术（字符型）": "无损音视频同步传输",
+            "常用接口（字符型）": "AES67",
+            "服务对象（字符型）": "高端影音播放设备制造商",
+            "采集来源": "Professional Sound,
+            "来源链接": "https://professionalsound.com"
+        },
+        {
+            "关键技术（字符型）": "全景视频捕捉技术",
+            "常用接口（字符型）": "Bluetooth 5.0",
+            "服务对象（字符型）": "旅游与内容相关企业",
+            "采集来源": "Content & Tourism Journal",
+            "来源链接": "https://contentandtourism.com"
+        },
+        {
+            "关键技术（字符型）": "物联网视频监控",
+            "常用接口（字符型）": "MQTT",
+            "服务对象（字符型）": "智能家居解决方案提供商",
+            "采集来源": "IoT Weekly",
+            "来源链接": "https://iotweekly.com"
+        },
+        {
+            "关键技术（字符型）": "低延迟视频传输",
+            "常用接口（字符型）": "RTMP",
+            "服务对象（字符型）": "游戏直播平台",
+            "采集来源": "Gaming Tech Today",
+            "来源链接": "https://gamingtechtoday.com"
+        },
+        {
+            "关键技术（字符型）": "视频网络安全技术",
+            "常用接口（字符型）": "SSL/TLS",
+            "服务对象（字符型）": "金融服务机构",
+            "采集来源": "Finance Security Review",
+            "来源链接": "https://financesecurityreview.com"
+        },
+        {
+            "关键技术（字符型）": "极简化视频编辑工具",
+            "常用接口（字符型）": "HTML5",
+            "服务对象（字符型）": "内容创作者",
+            "采集来源": "Content Creator Magazine",
+            "来源链接": "https://contentcreatormagazine.com"
+        },
+        {
+            "关键技术（字符型）": "全景视频播放解决方案",
+            "常用接口（字符型）": "RTSP",
+            "服务对象（字符型）": "科研机构",
+            "采集来源": "Research Media Journal",
+            "来源链接": "https://researchmediajournal.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术（字符型）": "高效视频编码技术",
+            "常用接口（字符型）": "USB 3.2",
+            "服务对象（字符型）": "内容创作者、视频制作公司",
+            "采集来源": "Technology Today",
+            "来源链接": "https://www.technologytoday.com"
+        },
+        {
+            "关键技术（字符型）": "动态场景适配技术",
+            "常用接口（字符型）": "DisplayPort 2.0",
+            "服务对象（字符型）": "家用娱乐系统",
+            "采集来源": "Home Theater Review",
+            "来源链接": "https://www.hometheaterreview.com"
+        },
+        {
+            "关键技术（字符型）": "超高刷新率显示技术",
+            "常用接口（字符型）": "DVI",
+            "服务对象（字符型）": "电竞行业",
+            "采集来源": "Gamer's Nexus",
+            "来源链接": "https://www.gamersnexus.net"
+        },
+        {
+            "关键技术（字符型）": "高动态范围成像",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "影视制作、广告行业",
+            "采集来源": "Visual Effects Society",
+            "来源链接": "https://www.visualeffectssociety.com"
+        },
+        {
+            "关键技术（字符型）": "虚拟现实集成技术",
+            "常用接口（字符型）": "Ethernet",
+            "服务对象（字符型）": "教育培训"
+            "采集来源": "VR Focus",
+            "来源链接": "https://www.vrfocus.com"
+        },
+        {
+            "关键技术（字符型）": "边缘计算视频处理",
+            "常用接口（字符型）": "Thunderbolt 4",
+            "服务对象（字符型）": "安全监控",
+            "采集来源": "Security World",
+            "来源链接": "https://www.securityworld.com"
+        },
+        {
+            "关键技术（字符型）": "实时互动视频技术",
+            "常用接口（字符型）": "WebRTC",
+            "服务对象（字符型）": "在线教育平台",
+            "采集来源": "EdTech Magazine",
+            "来源链接": "https://www.edtechmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "智能内容分析技术",
+            "常用接口（字符型）": "MQTT",
+            "服务对象（字符型）": "社交媒体平台",
+            "采集来源": "Digital Marketing World",
+            "来源链接": "https://www.digitalmarketingworld.com"
+        },
+        {
+            "关键技术（字符型）": "场景识别与跟踪技术",
+            "常用接口（字符型）": "USB-C",
+            "服务对象（字符型）": "无人机视频拍摄",
+            "采集来源": "Drone DJ",
+            "来源链接": "https://www.dronedj.com"
+        },
+        {
+            "关键技术（字符型）": "云端视频存储与传输",
+            "常用接口（字符型）": "FTP",
+            "服务对象（字符型）": "媒体公司",
+            "采集来源": "Cloud Computing Today",
+            "来源链接": "https://www.cloudcomputingtoday.com"
+        },
+        {
+            "关键技术（字符型）": "多视角视频显示技术",
+            "常用接口（字符型）": "HDMI",
+            "服务对象（字符型）": "事件直播行业",
+            "采集来源": "Event Tech Live",
+            "来源链接": "https://www.eventtechlive.com"
+        },
+        {
+            "关键技术（字符型）": "深度学习视觉增强技术",
+            "常用接口（字符型）": "USB 3.0",
+            "服务对象（字符型）": "游戏开发",
+            "采集来源": "Game Developer Magazine",
+            "来源链接": "https://www.gamedeveloper.com"
+        },
+        {
+            "关键技术（字符型）": "计算机视觉技术",
+            "常用接口（字符型）": "SATA",
+            "服务对象（字符型）": "智能家居",
+            "采集来源": "Smart Home Journal",
+            "来源链接": "https://www.smarthomejournal.com"
+        },
+        {
+            "关键技术（字符型）": "超高分辨率图像合成技术",
+            "常用接口（字符型）": "Thunderbolt 3",
+            "服务对象（字符型）": "医疗成像行业",
+            "采集来源": "Medical Imaging News",
+            "来源链接": "https://www.medicalimagingnews.com"
+        },
+        {
+            "关键技术（字符型）": "低延迟视频传输技术",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "体育赛事转播",
+            "采集来源": "Broadcast Now",
+            "来源链接": "https://www.broadcastnow.co.uk"
+        },
+        {
+            "关键技术（字符型）": "三维视频处理技术",
+            "常用接口（字符型）": "DisplayPort 1.4",
+            "服务对象（字符型）": "影院行业",
+            "采集来源": "CinemaTech",
+            "来源链接": "https://www.cinematech.com"
+        },
+        {
+            "关键技术（字符型）": "人脸识别增强技术",
+            "常用接口（字符型）": "HDBaseT",
+            "服务对象（字符型）": "安全服务行业",
+            "采集来源": "Security Solutions",
+            "来源链接": "https://www.securitysolutions.com"
+        },
+        {
+            "关键技术（字符型）": "虚拟现实增强显示技术",
+            "常用接口（字符型）": "Ethernet 10G",
+            "服务对象（字符型）": "企业虚拟展示",
+            "采集来源": "Tech Innovation Today",
+            "来源链接": "https://www.techinnovationtoday.com"
+        },
+        {
+            "关键技术（字符型）": "先进图像稳定技术",
+            "常用接口（字符型）": "RFID",
+            "服务对象（字符型）": "无人驾驶汽车影像采集",
+            "采集来源": "Automotive Tech Review",
+            "来源链接": "https://www.automotivetechreview.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术（字符型）": "高效视频编码标准",
+            "常用接口（字符型）": "USB-C",
+            "服务对象（字符型）": "内容创作者",
+            "采集来源": "TechCrunch",
+            "来源链接": "https://techcrunch.com"
+        },
+        {
+            "关键技术（字符型）": "视频流量管理",
+            "常用接口（字符型）": "Ethernet",
+            "服务对象（字符型）": "在线游戏开发商",
+            "采集来源": "Gamasutra",
+            "来源链接": "https://www.gamasutra.com"
+        },
+        {
+            "关键技术（字符型）": "动态范围增强技术",
+            "常用接口（字符型）": "DisplayPort 1.4",
+            "服务对象（字符型）": "家庭影院爱好者",
+            "采集来源": "Home Theater Review",
+            "来源链接": "https://www.hometheaterreview.com"
+        },
+        {
+            "关键技术（字符型）": "多视角视频展示",
+            "常用接口（字符型）": "MHL",
+            "服务对象（字符型）": "体育直播平台",
+            "采集来源": "SportsTechie",
+            "来源链接": "https://sportstechie.net"
+        },
+        {
+            "关键技术（字符型）": "视频内容个性化",
+            "常用接口（字符型）": "Wireless Display",
+            "服务对象（字符型）": "数字营销公司",
+            "采集来源": "Adweek",
+            "来源链接": "https://www.adweek.com"
+        },
+        {
+            "关键技术（字符型）": "超高清内容制作工具",
+            "常用接口（字符型）": "SDI",
+            "服务对象（字符型）": "电影制作公司",
+            "采集来源": "Film Riot",
+            "来源链接": "https://www.filmriot.com"
+        },
+        {
+            "关键技术（字符型）": "人工智能视频剪辑",
+            "常用接口（字符型）": "AirPlay",
+            "服务对象（字符型）": "教育机构",
+            "采集来源": "EdTech Magazine",
+            "来源链接": "https://edtechmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "可穿戴设备视频传输",
+            "常用接口（字符型）": "Bluetooth 5.0",
+            "服务对象（字符型）": "健身科技公司",
+            "采集来源": "Wearable Tech",
+            "来源链接": "https://www.wearabletech.com"
+        },
+        {
+            "关键技术（字符型）": "虚拟现实视频处理",
+            "常用接口（字符型）": "USB 3.2",
+            "服务对象（字符型）": "游戏及娱乐行业",
+            "采集来源": "VR Focus",
+            "来源链接": "https://www.vrfocus.com"
+        },
+        {
+            "关键技术（字符型）": "高动态范围视频技术",
+            "常用接口（字符型）": "HDMI 2.0",
+            "服务对象（字符型）": "广播公司",
+            "采集来源": "Broadcast Now",
+            "来源链接": "https://www.broadcastnow.co.uk"
+        },
+        {
+            "关键技术（字符型）": "视频拼接技术",
+            "常用接口（字符型）": "VGA",
+            "服务对象（字符型）": "广告展览公司",
+            "采集来源": "Event Marketer",
+            "来源链接": "https://www.eventmarketer.com"
+        },
+        {
+            "关键技术（字符型）": "智能视频分析",
+            "常用接口（字符型）": "IoT Edge",
+            "服务对象（字符型）": "安全监控公司",
+            "采集来源": "Secure Insights",
+            "来源链接": "https://secureinsights.com"
+        },
+        {
+            "关键技术（字符型）": "超分辨率视频技术",
+            "常用接口（字符型）": "Thunderbolt 3",
+            "服务对象（字符型）": "个人视频制作者",
+            "采集来源": "DIY Video Guy",
+            "来源链接": "https://diyvideoguy.com"
+        },
+        {
+            "关键技术（字符型）": "远程视频协作",
+            "常用接口（字符型）": "WebRTC",
+            "服务对象（字符型）": "云计算公司",
+            "采集来源": "CloudTech News",
+            "来源链接": "https://www.cloudtechnews.com"
+        },
+        {
+            "关键技术（字符型）": "超高清流媒体技术",
+            "常用接口（字符型）": "RTP/RTSP",
+            "服务对象（字符型）": "流媒体服务商",
+            "采集来源": "Streaming Media',
+            "来源链接": "https://www.streamingmedia.com"
+        },
+        {
+            "关键技术（字符型）": "音视频同步技术",
+            "常用接口（字符型）": "SATA",
+            "服务对象（字符型）": "音乐视频制作公司",
+            "采集来源": "MixMag",
+            "来源链接": "https://mixmag.net"
+        },
+        {
+            "关键技术（字符型）": "实时图像增强",
+            "常用接口（字符型）": "Fibre Channel",
+            "服务对象（字符型）": "新能源车企业",
+            "采集来源": "Tech in Asia",
+            "来源链接": "https://techinasia.com"
+        },
+        {
+            "关键技术（字符型）": "云端视频处理",
+            "常用接口（字符型）": "深度学习接口",
+            "服务对象（字符型）": "AI研发机构",
+            "采集来源": "AI Trends",
+            "来源链接": "https://www.aitrends.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术（字符型）": "8K流媒体技术",
+            "常用接口（字符型）": "USB-C",
+            "服务对象（字符型）": "家庭影院用户",
+            "采集来源": "Tech Radar",
+            "来源链接": "https://www.techradar.com"
+        },
+        {
+            "关键技术（字符型）": "高动态范围视频（HDR）",
+            "常用接口（字符型）": "DisplayPort 1.4",
+            "服务对象（字符型）": "视频游戏开发公司",
+            "采集来源": "Gaming Nexus",
+            "来源链接": "https://www.gamingnexus.com"
+        },
+        {
+            "关键技术（字符型）": "视频超分技术",
+            "常用接口（字符型）": "HDMI 2.0",
+            "服务对象（字符型）": "高端视频监控系统",
+            "采集来源": "Security Today",
+            "来源链接": "https://www.securitytoday.com"
+        },
+        {
+            "关键技术（字符型）": "多视角视频处理",
+            "常用接口（字符型）": "Ethernet",
+            "服务对象（字符型）": "体育赛事直播公司",
+            "采集来源": "Broadcast Tech Magazine",
+            "来源链接": "https://www.broadcasttechmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "索引视频处理技术",
+            "常用接口（字符型）": "Fiber Optic",
+            "服务对象（字符型）": "影视后期制作公司",
+            "采集来源": "Filmmaker Magazine",
+            "来源链接": "https://www.filmmakermagazine.com"
+        },
+        {
+            "关键技术（字符型）": "智能内容识别技术",
+            "常用接口（字符型）": "SDI",
+            "服务对象（字符型）": "广告代理公司",
+            "采集来源": "Ad Age",
+            "来源链接": "https://adage.com"
+        },
+        {
+            "关键技术（字符型）": "场景自适应编码技术",
+            "常用接口（字符型）": "VP9",
+            "服务对象（字符型）": "OTT平台",
+            "采集来源": "Next TV",
+            "来源链接": "https://www.nexttv.com"
+        },
+        {
+            "关键技术（字符型）": "内容分发网络优化",
+            "常用接口（字符型）": "RTMP",
+            "服务对象（字符型）": "在线教育平台",
+            "采集来源": "EdTech Magazine",
+            "来源链接": "https://edtechmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "视频数据加密技术",
+            "常用接口（字符型）": "HTTPS",
+            "服务对象（字符型）": "流媒体服务商",
+            "采集来源": "CNET",
+            "来源链接": "https://www.cnet.com"
+        },
+        {
+            "关键技术（字符型）": "云视频处理技术",
+            "常用接口（字符型）": "REST API",
+            "服务对象（字符型）": "IT基础设施提供商",
+            "采集来源": "Cloud Computing Magazine",
+            "来源链接": "https://www.cloudcomputingmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "无缝流媒体技术",
+            "常用接口（字符型）": "WebRTC",
+            "服务对象（字符型）": "虚拟活动平台",
+            "采集来源": "Event Tech Live",
+            "来源链接": "https://www.eventtechlive.com"
+        },
+        {
+            "关键技术（字符型）": "运动场监控技术",
+            "常用接口（字符型）": "IP Camera",
+            "服务对象（字符型）": "体育场馆管理",
+            "采集来源": "Stadium Tech"),
+            "来源链接": "https://www.stadiumtech.com"
+        },
+        {
+            "关键技术（字符型）": "增强现实视频集成技术",
+            "常用接口（字符型）": "ARKit",
+            "服务对象（字符型）": "互动娱乐行业",
+            "采集来源": "AR Post",
+            "来源链接": "https://arpost.co"
+        },
+        {
+            "关键技术（字符型）": "边缘计算视频处理",
+            "常用接口（字符型）": "OpenVINO",
+            "服务对象（字符型）": "智能城市场景",
+            "采集来源": "Smart Cities World",
+            "来源链接": "https://www.smartcitiesworld.net"
+        },
+        {
+            "关键技术（字符型）": "经济型8K显示屏技术",
+            "常用接口（字符型）": "HDMI 2.1a",
+            "服务对象（字符型）": "教育和培训机构",
+            "采集来源": "EdSurge",
+            "来源链接": "https://www.edsurge.com"
+        },
+        {
+            "关键技术（字符型）": "视频回放效率优化技术",
+            "常用接口（字符型）": "MPEG-DASH",
+            "服务对象（字符型）": "视频网站",
+            "采集来源": "Streaming Media",
+            "来源链接": "https://www.streamingmedia.com"
+        },
+        {
+            "关键技术（字符型）": "视频内容分析技术",
+            "常用接口（字符型）": "SNMP",
+            "服务对象（字符型）": "安防监控公司",
+            "采集来源": "SecurityInfoWatch",
+            "来源链接": "https://www.securityinfowatch.com"
+        },
+        {
+            "关键技术（字符型）": "视频内容个性化推荐",
+            "常用接口（字符型）": "API Gateway",
+            "服务对象（字符型）": "内容平台",
+            "采集来源": "TechCrunch",
+            "来源链接": "https://techcrunch.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术（字符型）": "动态码率调整",
+            "常用接口（字符型）": "USB 3.2",
+            "服务对象（字符型）": "在线视频平台、游戏开发者",
+            "采集来源": "TechCrunch",
+            "来源链接": "https://techcrunch.com"
+        },
+        {
+            "关键技术（字符型）": "8K视频内容预测编码",
+            "常用接口（字符型）": "DisplayPort 2.0",
+            "服务对象（字符型）": "内容创作机构、广告行业",
+            "采集来源": "Next TV",
+            "来源链接": "https://www.nexxtv.com"
+        },
+        {
+            "关键技术（字符型）": "高动态范围（HDR）技术",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "专业影视制作，家庭影院用户",
+            "采集来源": "CNET",
+            "来源链接": "https://www.cnet.com"
+        },
+        {
+            "关键技术（字符型）": "虚拟现实视频处理",
+            "常用接口（字符型）": "NVIDIA NVLINK",
+            "服务对象（字符型）": "游戏和娱乐行业",
+            "采集来源": "VentureBeat",
+            "来源链接": "https://venturebeat.com"
+        },
+        {
+            "关键技术（字符型）": "多路视频流同步技术",
+            "常用接口（字符型）": "Ethernet",
+            "服务对象（字符型）": "大型赛事直播、活动策划",
+            "采集来源": "Sports Video Group",
+            "来源链接": "https://www.sportsvideo.org"
+        },
+        {
+            "关键技术（字符型）": "机器学习的画面增强技术",
+            "常用接口（字符型）": "PCIe 4.0",
+            "服务对象（字符型）": "媒体公司，图像处理领域",
+            "采集来源": "Wired",
+            "来源链接": "https://www.wired.com"
+        },
+        {
+            "关键技术（字符型）": "超高速数据传输技术",
+            "常用接口（字符型）": "USB 4.0",
+            "服务对象（字符型）": "电子竞技、虚拟展会",
+            "采集来源": "The Verge",
+            "来源链接": "https://www.theverge.com"
+        },
+        {
+            "关键技术（字符型）": "边缘计算视频处理",
+            "常用接口（字符型）": "Wi-Fi 6",
+            "服务对象（字符型）": "智能家居，工业监控",
+            "采集来源": "IEEE Spectrum",
+            "来源链接": "https://spectrum.ieee.org"
+        },
+        {
+            "关键技术（字符型）": "云端超高清视频处理技术",
+            "常用接口（字符型）": "WebRTC",
+            "服务对象（字符型）": "云服务提供商，教育行业",
+            "采集来源": "Cloud Computing Journal",
+            "来源链接": "https://cloudcomputingjournal.com"
+        },
+        {
+            "关键技术（字符型）": "基于AI的画面降噪",
+            "常用接口（字符型）": "Thunderbolt 4",
+            "服务对象（字符型）": "社交媒体直播者，视频编辑',
+            "采集来源": "Photo & Video Enviroment",
+            "来源链接": "https://www.photographyandvideo.com"
+        },
+        {
+            "关键技术（字符型）": "色彩校正技术",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "电影后期制作公司",
+            "采集来源": "Filmmaker Magazine",
+            "来源链接": "https://www.filmmakermagazine.com"
+        },
+        {
+            "关键技术（字符型）": "8K流媒体传输技术",
+            "常用接口（字符型）": "IP网络",
+            "服务对象（字符型）": "在线教育平台",
+            "采集来源": "EdTech Magazine",
+            "来源链接": "https://edtechmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "大规模视频编解码技术",
+            "常用接口（字符型）": "SATA 3",
+            "服务对象（字符型）": "视频监控，公共安全",
+            "采集来源": "Safety & Security",
+            "来源链接": "https://www.safetyandsecurity.com"
+        },
+        {
+            "关键技术（字符型）": "多视角视频技术",
+            "常用接口（字符型）": "HDMI 2.0",
+            "服务对象（字符型）": "直播平台，体育赛事",
+            "采集来源": "Streaming Media",
+            "来源链接": "https://www.streamingmedia.com"
+        },
+        {
+            "关键技术（字符型）": "整合虚拟和增强现实的技术",
+            "常用接口（字符型）": "HDMI 2.0",
+            "服务对象（字符型）": "XR内容开发者",
+            "采集来源": "Augmented Reality News",
+            "来源链接": "https://www.arnews.com"
+        },
+        {
+            "关键技术（字符型）": "提升视频传输的网络安全技术",
+            "常用接口（字符型）": "VPN接口",
+            "服务对象（字符型）": "企业级视频解决方案",
+            "采集来源": "Cybersecurity Insider",
+            "来源链接": "https://cybersecurityinsider.com"
+        },
+        {
+            "关键技术（字符型）": "基于区块链的数字版权保护技术",
+            "常用接口（字符型）": "Internet Protocol",
+            "服务对象（字符型）": "内容创作者，数字分发平台",
+            "采集来源": "Digital Rights Group",
+            "来源链接": "https://digitalrightsgroup.com"
+        },
+        {
+            "关键技术（字符型）": "人工智能推荐系统技术",
+            "常用接口（字符型）": "REST API",
+            "服务对象（字符型）": "视频流媒体服务",
+            "采集来源": "TechRadar",
+            "来源链接": "https://www.techradar.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术": "光纤视频传输技术",
+            "常用接口": "SDI",
+            "服务对象": "电影制作、后期制作公司",
+            "采集来源": "Film Editing Hub",
+            "来源链接": "https://filmeditinghub.com"
+        },
+        {
+            "关键技术": "面部识别和追踪技术",
+            "常用接口": "USB-C",
+            "服务对象": "安全监控、公共安全部门",
+            "采集来源": "Security Insights",
+            "来源链接": "https://www.securityinsights.com"
+        },
+        {
+            "关键技术": "超高分辨率图像处理",
+            "常用接口": "HDMI 2.1",
+            "服务对象": "医疗成像行业",
+            "采集来源": "Medical Imaging News",
+            "来源链接": "https://www.medicalimagingnews.com"
+        },
+        {
+            "关键技术": "动态场景重构技术",
+            "常用接口": "DisplayPort 2.0",
+            "服务对象": "虚拟现实和增强现实开发者",
+            "采集来源": "VR Focus",
+            "来源链接": "https://www.vrfocus.com"
+        },
+        {
+            "关键技术": "超高清游戏技术",
+            "常用接口": "Thunderbolt 3",
+            "服务对象": "游戏开发者、玩家社群",
+            "采集来源": "GameTech Reviews",
+            "来源链接": "https://www.gametechreviews.com"
+        },
+        {
+            "关键技术": "低延迟视频传输",
+            "常用接口": "Wi-Fi 6",
+            "服务对象": "电子竞技赛事组织者",
+            "采集来源": "Esports Today",
+            "来源链接": "https://www.esportstoday.com"
+        },
+        {
+            "关键技术": "高动态范围(HDR)技术",
+            "常用接口": "HDMI 2.0",
+            "服务对象": "家庭娱乐行业",
+            "采集来源": "Home Theater Review",
+            "来源链接": "https://www.hometheaterreview.com"
+        },
+        {
+            "关键技术": "图像超分辨率重建",
+            "常用接口": "DVI",
+            "服务对象": "数字媒体出版商",
+            "采集来源": "Digital Media World",
+            "来源链接": "https://www.digitalmediaworld.tv"
+        },
+        {
+            "关键技术": "实时场景分析",
+            "常用接口": "Ethernet",
+            "服务对象": "智能城市建设公司",
+            "采集来源": "Smart Cities Dive",
+            "来源链接": "https://www.smartcitiesdive.com"
+        },
+        {
+            "关键技术": "视频压缩优化",
+            "常用接口": "USB 3.2",
+            "服务对象": "网络广播、流媒体平台",
+            "采集来源": "Streaming Media",
+            "来源链接": "https://www.streamingmedia.com"
+        },
+        {
+            "关键技术": "多视角视频捕捉技术",
+            "常用接口": "HDMI 2.1",
+            "服务对象": "体育转播公司",
+            "采集来源": "Sports Video Group",
+            "来源链接": "https://www.sportsvideo.org"
+        },
+        {
+            "关键技术": "虚拟现实视频处理",
+            "常用接口": "DisplayPort",
+            "服务对象": "教育机构、在线教育平台",
+            "采集来源": "EdTech Magazine",
+            "来源链接": "https://www.edtechmagazine.com"
+        },
+        {
+            "关键技术": "云端视频处理",
+            "常用接口": "REST API",
+            "服务对象": "媒体内容提供商",
+            "采集来源": "Cloud Video Processing Journal",
+            "来源链接": "https://www.cloudvideoprocessing.com"
+        },
+        {
+            "关键技术": "人脸动画技术",
+            "常用接口": "HDMI",
+            "服务对象": "动画制作、影视公司",
+            "采集来源": "Animation Magazine",
+            "来源链接": "https://www.animationmagazine.net"
+        },
+        {
+            "关键技术": "超高清多媒体内容制作",
+            "常用接口": "VGA",
+            "服务对象": "广告、营销公司",
+            "采集来源": "Adweek",
+            "来源链接": "https://www.adweek.com"
+        },
+        {
+            "关键技术": "高效视频转码技术",
+            "常用接口": "SATA",
+            "服务对象": "数据中心、云服务提供商",
+            "采集来源": "Data Center Dynamics",
+            "来源链接": "https://www.datacenterdynamics.com"
+        },
+        {
+            "关键技术": "自动化内容识别技术",
+            "常用接口": "HDBaseT",
+            "服务对象": "防盗监控系统",
+            "采集来源": "CCTV Technology",
+            "来源链接": "https://www.cctvtechnology.com"
+        },
+        {
+            "关键技术": "生成对抗网络(GAN)在视频中的应用",
+            "常用接口": "MIPI CSI",
+            "服务对象": "机器学习研究机构",
+            "采集来源": "AI & ML News",
+            "来源链接": "https://www.aimlnews.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术（字符型）": "高动态范围成像",
+            "常用接口（字符型）": "DisplayPort 1.4",
+            "服务对象（字符型）": "家庭影院、娱乐行业",
+            "采集来源": "TechRadar",
+            "来源链接": "https://www.techradar.com"
+        },
+        {
+            "关键技术（字符型）": "超高清视频后期处理",
+            "常用接口（字符型）": "USB-C",
+            "服务对象（字符型）": "独立视频制作公司",
+            "采集来源": "Cinefex",
+            "来源链接": "https://www.cinefex.com"
+        },
+        {
+            "关键技术（字符型）": "多通道音频传输技术",
+            "常用接口（字符型）": "AES67",
+            "服务对象（字符型）": "音响工程师、音乐制作公司",
+            "采集来源": "ProSoundWeb",
+            "来源链接": "https://www.prosoundweb.com"
+        },
+        {
+            "关键技术（字符型）": "视频编解码技术",
+            "常用接口（字符型）": "MIPI DSI",
+            "服务对象（字符型）": "移动设备制造商",
+            "采集来源": "EDN Network",
+            "来源链接": "https://www.edn.com"
+        },
+        {
+            "关键技术（字符型）": "智能视频分析",
+            "常用接口（字符型）": "RTSP",
+            "服务对象（字符型）": "安全监控、智能城市",
+            "采集来源": "Security Today",
+            "来源链接": "https://www.securitytoday.com"
+        },
+        {
+            "关键技术（字符型）": "增强现实视频技术",
+            "常用接口（字符型）": "Wi-Fi 6",
+            "服务对象（字符型）": "游戏开发公司",
+            "采集来源": "Game Developer",
+            "来源链接": "https://www.gamedeveloper.com"
+        },
+        {
+            "关键技术（字符型）": "无损视频传输",
+            "常用接口（字符型）": "SDI",
+            "服务对象（字符型）": "广播公司",
+            "采集来源": "Broadcasting & Cable",
+            "来源链接": "https://www.broadcastingcable.com"
+        },
+        {
+            "关键技术（字符型）": "视频流优化技术",
+            "常用接口（字符型）": "HTTP/2",
+            "服务对象（字符型）": "流媒体平台",
+            "采集来源": "Streaming Media",
+            "来源链接": "https://www.streamingmedia.com"
+        },
+        {
+            "关键技术（字符型）": "超高清视频类型转换",
+            "常用接口（字符型）": "Thunderbolt 3",
+            "服务对象（字符型）": "虚拟现实和增强现实企业",
+            "采集来源": "VRFocus",
+            "来源链接": "https://www.vrfocus.com"
+        },
+        {
+            "关键技术（字符型）": "物联网视频解决方案",
+            "常用接口（字符型）": "Zigbee",
+            "服务对象（字符型）": "家居自动化公司",
+            "采集来源": "IoT World Today",
+            "来源链接": "https://www.iotworldtoday.com"
+        },
+        {
+            "关键技术（字符型）": "流畅视频回放技术",
+            "常用接口（字符型）": "HLS",
+            "服务对象（字符型）": "在线教育平台",
+            "采集来源": "EdSurge",
+            "来源链接": "https://www.edsurge.com"
+        },
+        {
+            "关键技术（字符型）": "多视角视频技术",
+            "常用接口（字符型）": "NDI",
+            "服务对象（字符型）": "直播制作公司",
+            "采集来源": "Live Streaming Pros",
+            "来源链接": "https://www.livestreamingpros.com"
+        },
+        {
+            "关键技术（字符型）": "视频内容智能推荐",
+            "常用接口（字符型）": "GraphQL",
+            "服务对象（字符型）": "内容分发网络",
+            "采集来源": "Content Delivery Summit",
+            "来源链接": "https://www.cdsummit.com"
+        },
+        {
+            "关键技术（字符型）": "AI驱动的视频剪辑",
+            "常用接口（字符型）": "OpenCV",
+            "服务对象（字符型）": "社交媒体监测公司",
+            "采集来源": "Social Media Examiner",
+            "来源链接": "https://www.socialmediaexaminer.com"
+        },
+        {
+            "关键技术（字符型）": "长时间视频录制技术",
+            "常用接口（字符型）": "SD卡",
+            "服务对象（字符型）": "大学、研究机构",
+            "采集来源": "Academic Video',
+            "来源链接": "https://www.academicvideo.com"
+        },
+        {
+            "关键技术（字符型）": "视频分辨率自适应技术",
+            "常用接口（字符型）": "SRT",
+            "服务对象（字符型）": "视频流媒体服务提供商",
+            "采集来源": "Packet Pushers",
+            "来源链接": "https://www.packetpushers.net"
+        },
+        {
+            "关键技术（字符型）": "无缝视频过渡效果",
+            "常用接口（字符型）": "RTMP",
+            "服务对象（字符型）": "活动直播公司",
+            "采集来源": "Eventbrite Blog",
+            "来源链接": "https://www.eventbrite.com/blog"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术（字符型）": "超高分辨率转码",
+            "常用接口（字符型）": "USB-C",
+            "服务对象（字符型）": "家庭影院用户",
+            "采集来源": "Home Theater Reviews",
+            "来源链接": "https://www.hometheaterreviews.com"
+        },
+        {
+            "关键技术（字符型）": "色彩空间扩展技术",
+            "常用接口（字符型）": "DisplayPort 1.4",
+            "服务对象（字符型）": "影视后期制作公司",
+            "采集来源": "Cinefex",
+            "来源链接": "https://www.cinefex.com"
+        },
+        {
+            "关键技术（字符型）": "动态刷新率技术",
+            "常用接口（字符型）": "VESA Display Stream Compression",
+            "服务对象（字符型）": "电竞直播平台",
+            "采集来源": "Game Streaming News",
+            "来源链接": "https://www.gamestreamingnews.com"
+        },
+        {
+            "关键技术（字符型）": "空间音效集成技术",
+            "常用接口（字符型）": "Optical Audio",
+            "服务对象（字符型）": "游戏开发公司",
+            "采集来源": "Gaming Tech Today",
+            "来源链接": "https://www.gamingtechtoday.com"
+        },
+        {
+            "关键技术（字符型）": "AI实时图像修复",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "视频内容创作者",
+            "采集来源": "Creative COW",
+            "来源链接": "https://www.creativecow.net"
+        },
+        {
+            "关键技术（字符型）": "量子点显示技术",
+            "常用接口（字符型）": "HDMI 2.0",
+            "服务对象（字符型）": "消费电子产品制造商",
+            "采集来源": "TechCrunch",
+            "来源链接": "https://www.techcrunch.com"
+        },
+        {
+            "关键技术（字符型）": "多视角视频传输",
+            "常用接口（字符型）": "IP网络",
+            "服务对象（字符型）": "直播赛事组织",
+            "采集来源": "Broadcast & Cable",
+            "来源链接": "https://www.broadcastcable.com"
+        },
+        {
+            "关键技术（字符型）": "高帧率编码技术",
+            "常用接口（字符型）": "USB 3.2",
+            "服务对象（字符型）": "流媒体服务提供商",
+            "采集来源": "Streaming Media Magazine",
+            "来源链接": "https://www.streamingmedia.com"
+        },
+        {
+            "关键技术（字符型）": "图像合成技术",
+            "常用接口（字符串型）": "HDMI 1.4",
+            "服务对象（字符型）": "广告制作公司",
+            "采集来源": "Adweek",
+            "来源链接": "https://www.adweek.com"
+        },
+        {
+            "关键技术（字符型）": "HDR视频技术",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "电影制作公司",
+            "采集来源": "Filmmaker Magazine",
+            "来源链接": "https://www.filmmakermagazine.com"
+        },
+        {
+            "关键技术（字符型）": "虚拟现实视频技术",
+            "常用接口（字符型）": "Thunderbolt 3",
+            "服务对象（字符型）": "科技教育机构",
+            "采集来源": "Tech Education Today",
+            "来源链接": "https://www.techeducationtoday.com"
+        },
+        {
+            "关键技术（字符型）": "360°全景视频技术",
+            "常用接口（字符型）": "HDMI 2.0",
+            "服务对象（字符型）": "旅游业",
+            "采集来源": "Travel Weekly",
+            "来源链接": "https://www.travelweekly.com"
+        },
+        {
+            "关键技术（字符型）": "4D影院技术",
+            "常用接口（字符型）": "Ethernet",
+            "服务对象（字符型）": "电影院",
+            "采集来源": "Cinema Technology Magazine",
+            "来源链接": "https://www.cinematechnologymagazine.com"
+        },
+        {
+            "关键技术（字符型）": "超高清视频流压缩",
+            "常用接口（字符型）": "Wi-Fi 6",
+            "服务对象（字符型）": "传媒公司",
+            "采集来源": "MediaPost",
+            "来源链接": "https://www.mediapost.com"
+        },
+        {
+            "关键技术（字符型）": "自动内容识别技术",
+            "常用接口（字符型）": "Bluetooth",
+            "服务对象（字符型）": "广告技术公司",
+            "采集来源": "AdExchanger",
+            "来源链接": "https://www.adexchanger.com"
+        },
+        {
+            "关键技术（字符型）": "超分辨率图像提升技术",
+            "常用接口（字符型）": "MHL",
+            "服务对象（字符型）": "制造业",
+            "采集来源": "Manufacturing Tech Insights",
+            "来源链接": "https://www.manufacturingtechinsights.com"
+        },
+        {
+            "关键技术（字符型）": "数字内容保护技术",
+            "常用接口（字符型）": "HDCP 2.2",
+            "服务对象（字符型）": "内容发行商",
+            "采集来源": "Digital Rights News",
+            "来源链接": "https://www.digitalrightsnews.com"
+        },
+        {
+            "关键技术（字符型）": "沉浸式音频技术",
+            "常用接口（字符型）": "FireWire",
+            "服务对象（字符型）": "博物馆、展览",
+            "采集来源": "Exhibition News",
+            "来源链接": "https://www.exhibitionnews.com"
+        }
+    ]
+}
+--- End of Invalid Output ---
+
+--- Invalid Output ---
+{
+    "generated_data": [
+        {
+            "关键技术（字符型）": "高效视频编码技术",
+            "常用接口（字符型）": "USB 4.0",
+            "服务对象（字符型）": "在线视频平台",
+            "采集来源": "TechRadar",
+            "来源链接": "https://www.techradar.com"
+        },
+        {
+            "关键技术（字符型）": "虚拟现实内容创建",
+            "常用接口（字符型）": "DisplayPort 2.0",
+            "服务对象（字符型）": "游戏开发商",
+            "采集来源": "Engadget",
+            "来源链接": "https://www.engadget.com"
+        },
+        {
+            "关键技术（字符型）": "AI驱动的画面增强",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "视频编辑公司",
+            "采集来源": "VentureBeat",
+            "来源链接": "https://venturebeat.com"
+        },
+        {
+            "关键技术（字符型）": "几何校正技术",
+            "常用接口（字符型）": "Ethernet AVB",
+            "服务对象（字符型）": "建筑行业",
+            "采集来源": "Architectural Digest",
+            "来源链接": "https://www.architecturaldigest.com"
+        },
+        {
+            "关键技术（字符型）": "光场显示技术",
+            "常用接口（字符型）": "Wi-Fi 6",
+            "服务对象（字符型）": "展示技术公司",
+            "采集来源": "CNET",
+            "来源链接": "https://www.cnet.com"
+        },
+        {
+            "关键技术（字符型）": "超高清内容存储解决方案",
+            "常用接口（字符型）": "Thunderbolt 4",
+            "服务对象（字符型）": "数据中心",
+            "采集来源": "StorageReview",
+            "来源链接": "https://www.storagereview.com"
+        },
+        {
+            "关键技术（字符型）": "4D视频技术",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "娱乐行业",
+            "采集来源": "Variety",
+            "来源链接": "https://variety.com"
+        },
+        {
+            "关键技术（字符型）": "动态范围提升技术",
+            "常用接口（字符型）": "USB-C",
+            "服务对象（字符型）": "电视制造商",
+            "采集来源": "What Hi-Fi?",
+            "来源链接": "https://www.whathifi.com"
+        },
+        {
+            "关键技术（字符型）": "360度视频捕捉技术",
+            "常用接口（字符型）": "Wi-Fi 6E",
+            "服务对象（字符型）": "社交媒体平台",
+            "采集来源": "TechCrunch",
+            "来源链接": "https://techcrunch.com"
+        },
+        {
+            "关键技术（字符型）": "增强现实内容整合",
+            "常用接口（字符型）": "HDMI 2.0",
+            "服务对象（字符型）": "教育技术公司",
+            "采集来源": "EdTech Magazine",
+            "来源链接": "https://edtechmagazine.com"
+        },
+        {
+            "关键技术（字符型）": "8K内容交付网络",
+            "常用接口（字符型）": "5G网络",
+            "服务对象（字符型）": "在线视频流媒体公司",
+            "采集来源": "Streaming Media",
+            "来源链接": "https://www.streamingmedia.com"
+        },
+        {
+            "关键技术（字符型）": "全景画面制作技术",
+            "常用接口（字符型）": "DisplayPort 1.4",
+            "服务对象（字符型）": "电影制作公司",
+            "采集来源": "Hollywood Reporter",
+            "来源链接": "https://www.hollywoodreporter.com"
+        },
+        {
+            "关键技术（字符型）": "自适应视频流技术",
+            "常用接口（字符型）": "Ethernet 10G",
+            "服务对象（字符型）": "直播活动组织者",
+            "采集来源": "SocialMediastrategies",
+            "来源链接": "https://www.socialmediastrategies.com"
+        },
+        {
+            "关键技术（字符型）": "高动态范围图像处理",
+            "常用接口（字符型）": "HDMI 2.1",
+            "服务对象（字符型）": "摄影与视频制作"
+        },
+        {
+            "关键技术（字符型）": "时间编码与同步技术",
+            "常用接口（字符型）": "SMPTE 2110",
+            "服务对象（字符型）": "广播与电影行业",
+            "采集来源": "Broadcast Engineering",
+            "来源链接": "https://broadcastengineering.com"
+        },
+        {
+            "关键技术（字符型）": "实时图像处理与分析",
+            "常用接口（字符型）": "Thunderbolt 3",
+            "服务对象（字符型）": "科学研究机构",
+            "采集来源": "IEEE Spectrum",
+            "来源链接": "https://spectrum.ieee.org"
+        },
+        {
+            "关键技术（字符型）": "智能流媒体技术",
+            "常用接口（字符型）": "Wi-Fi 6E",
+            "服务对象（字符型）": "数字广告网络",
+            "采集来源": "AdWeek",
+            "来源链接": "https://www.adweek.com"
+        },
+        {
+            "关键技术（字符型）": "视频会话分析技术",
+            "常用接口（字符型）": "USB 3.2",
+            "服务对象（字符型）": "企业沟通平台",
+            "采集来源": "Forbes Technology",
+            "来源链接": "https://www.forbes.com/technology"
+        }
+    ]
+}
+--- End of Invalid Output ---
